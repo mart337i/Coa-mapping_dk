@@ -1,0 +1,1001 @@
+date,description,amount,account_number,account_description,account_category
+2024-03-06 23:48:57.578120,,-19246.49,2290,Regulering af nedskrivning på tilgodehavender fra salg og tjenesteydelser,Administrationsomkostninger
+2024-03-06 23:48:57.578120, betaling {} - langfristede tilgodehavender hos tilknyttede virksomheder - ref. 16135,-13144.17,5870,Langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2024-03-06 23:48:57.578120," {} grunde og bygninger, årets af- og nedskrivninger - ref. 84788",-2849.56,5390,"Grunde og bygninger, årets af- og nedskrivninger",Grunde og bygninger
+2024-03-06 23:48:57.578120, andre hensatte forpligtelser {} - ref. 54362,-41292.94,7050,Andre hensatte forpligtelser,Andre hensatte forpligtelser
+2024-03-07 23:48:57.578120, betaling {} - varme - ref. 55237,-25935.88,2080,Varme,Lokaleomkostninger
+2024-03-07 23:48:57.578120, {} udskudte skatteaktiver - ref. 80574,-26089.93,6020,Udskudte skatteaktiver,Andre (langfristede) tilgodehavender
+2024-03-07 23:48:57.578120,,-42399.96,6970,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2024-03-08 23:48:57.578120, {} fri bil - ref. 93444,-15706.1,2640,Fri bil,Administrationsomkostninger
+2024-03-08 23:48:57.578120,,-29953.82,1850,Annoncering og reklame,Salgsomkostninger
+2024-03-08 23:48:57.578120,,-16807.34,5050,"Goodwill, årets af- og nedskrivninger",Goodwill
+2024-03-09 23:48:57.578120,,-49352.1,6490,Likvide beholdninger,Likvide beholdninger
+2024-03-09 23:48:57.578120,,-22016.07,9999,PASSIVER I ALT,Periodeafgrænsningsposter
+2024-03-09 23:48:57.578120, overkurs ved emission {} - ref. 17559,-19553.1,6540,Overkurs ved emission,Overkurs ved emission
+2024-03-10 23:48:57.578120,,-16499.01,2200,Andre lokaleomkostninger,Lokaleomkostninger
+2024-03-11 23:48:57.578120,,-39737.78,6260,Kortfristede tilgodehavender hos tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-03-12 23:48:57.578120,,-25220.37,2070,Vand,Lokaleomkostninger
+2024-03-12 23:48:57.578120,,-1708.82,5771,Materielle anlægsaktiver,Finansielt leasede aktiver
+2024-03-12 23:48:57.578120," finansielt leasede aktiver, tilbageførte af- og nedskrivninger {} - ref. 14153",-12765.94,5760,"Finansielt leasede aktiver, tilbageførte af- og nedskrivninger",Finansielt leasede aktiver
+2024-03-12 23:48:57.578120," {} husleje, ekskl. el, vand og varme - ref. 21136",-36820.53,2030,"Husleje, ekskl. el, vand og varme",Lokaleomkostninger
+2024-03-13 23:48:57.578120, betaling {} - forudbetalinger for varer - ref. 15795,-17545.39,6180,Forudbetalinger for varer,Forudbetalinger for varer
+2024-03-13 23:48:57.578120,,-3522.72,3810,Andre skatter,Andre skatter
+2024-03-14 23:48:57.578120, overførsel fra {} - ref. 16227,-25691.79,1830,Fragtomkostninger,Salgsomkostninger
+2024-03-14 23:48:57.578120," finansielt leasede aktiver, øvrige værdireguleringer {} - ref. 42093",-3396.74,5740,"Finansielt leasede aktiver, øvrige værdireguleringer",Finansielt leasede aktiver
+2024-03-15 23:48:57.578120," {} grunde og bygninger, tilbageførte af- og nedskrivninger - ref. 29912",-24360.34,5400,"Grunde og bygninger, tilbageførte af- og nedskrivninger",Grunde og bygninger
+2024-03-15 23:48:57.578120, af- og nedskrivninger af erhvervede immaterielle anlægsaktiver {} - ref. 27758,-20165.79,3000,Af- og nedskrivninger af erhvervede immaterielle anlægsaktiver,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-15 23:48:57.578120,,-4372.64,7520,Gæld til kapitalinteresser - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-03-16 23:48:57.578120,,-26192.12,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-16 23:48:57.578120," kapitalandele i kapitalinteresser, årets tilgange {} - ref. 49093",-3014.96,5910,"Kapitalandele i kapitalinteresser, årets tilgange",Kapitalandele i kapitalinteresser
+2024-03-16 23:48:57.578120, {} renter vedr. tilgodehavende fra salg af varer og tjenesteydelser - ref. 49939,-41729.26,3490,Renter vedr. tilgodehavende fra salg af varer og tjenesteydelser,Andre finansielle indtægter
+2024-03-16 23:48:57.578120,,-15197.1,5690,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, tilbageførte nedskrivninger",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-03-16 23:48:57.578120," betaling {} - materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets afgange - ref. 60513",-25062.38,5660,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets afgange",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-03-17 23:48:57.578120,,-37606.88,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-03-17 23:48:57.578120,,-16276.29,6000,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-03-17 23:48:57.578120,,-18828.69,7310,Gæld til kreditinstitutter - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-03-17 23:48:57.578120, {} skyldigt am-bidrag - ref. 19931,-14873.48,7940,Skyldigt AM-bidrag,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-17 23:48:57.578120,,-30280.09,2910,Pensioner,Personaleomkostninger
+2024-03-18 23:48:57.578120,,-9393.44,7960,Skyldigt ATP-bidrag,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-18 23:48:57.578120, betaling {} - olie- og flaskegasafgift - ref. 65658,-31980.78,7760,Olie- og flaskegasafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-18 23:48:57.578120,,-48440.46,3060,Af- og nedskrivninger af software,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-19 23:48:57.578120,,-24903.32,6810,Reserve for udlån og sikkerhedsstillelse,Andre reserver
+2024-03-19 23:48:57.578120,,-25244.77,6320,Tilgodehavende moms (kortfristet),Andre tilgodehavender (kortfristede)
+2024-03-19 23:48:57.578120,,-43415.97,2690,Øvrige rådgivningshonorarer,Administrationsomkostninger
+2024-03-20 23:48:57.578120,,-12113.87,6250,Akkumulerede nedskrivninger til tab på tilgodehavender fra kapitalinteresser,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-03-20 23:48:57.578120,,-43127.35,3070,Af- og nedskrivninger af finansielt leasede grunde og bygninger,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-20 23:48:57.578120, betaling {} - tilgodehavender fra salg og tjenesteydelser - ref. 39908,-13060.92,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-03-20 23:48:57.578120,,-16528.02,7830,Co2-afgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-21 23:48:57.578120,,-43458.47,1870,Udstillinger og dekoration,Salgsomkostninger
+2024-03-21 23:48:57.578120,,-48911.35,3400,"Øvrige indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2024-03-21 23:48:57.578120, af- og nedskrivninger af produktionsanlæg og maskiner {} - ref. 57128,-47068.88,3030,Af- og nedskrivninger af produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-21 23:48:57.578120, {} tilgodehavende kildeskat - ref. 61432,-39732.55,6310,Tilgodehavende kildeskat,Andre tilgodehavender (kortfristede)
+2024-03-21 23:48:57.578120,,-46931.63,7450,Leverandører af varer og tjenesteydelser,Leverandører af varer og tjenesteydelser
+2024-03-22 23:48:57.578120, {} kulafgift - ref. 47589,-45788.0,2110,Kulafgift,Lokaleomkostninger
+2024-03-22 23:48:57.578120, betaling {} - resultat før skat - ref. 93696,-42233.43,3701,Resultat før skat,Øvrige finansielle omkostninger
+2024-03-22 23:48:57.578120,,-42341.1,7240,Leasingforpligtelse - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-22 23:48:57.578120,,-4864.8,2240,Småanskaffelser over skattemæssig grænse for småaktiver,Administrationsomkostninger
+2024-03-23 23:48:57.578120,,-17008.98,1710,"Ydelseskøb udland, EU","Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-03-23 23:48:57.578120,,-222.07,5480,"Produktionsanlæg og maskiner, tilbageførte af- og nedskrivninger",Produktionsanlæg og maskiner
+2024-03-24 23:48:57.578120,,-42444.12,6830,Reserve for ikke indbetalt virksomhedskapital og overkurs,Andre reserver
+2024-03-24 23:48:57.578120,,-5114.69,6499,AKTIVER I ALT,Likvide beholdninger
+2024-03-25 23:48:57.578120,,-17010.33,2900,AM Bidragsfri A-Indkomst,Personaleomkostninger
+2024-03-25 23:48:57.578120,,-28574.28,7530,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-03-25 23:48:57.578120, øvrige andre driftsomkostninger {} - ref. 31144,-33368.34,3180,Øvrige andre driftsomkostninger,Andre driftsomkostninger
+2024-03-25 23:48:57.578120,,22297.78,1590,Andre driftsindtægter,Andre driftsindtægter
+2024-03-25 23:48:57.578120, betaling {} - immaterielle anlægsaktiver - ref. 60897,-17505.92,5141,Immaterielle anlægsaktiver,Erhvervede immaterielle anlægsaktiver
+2024-03-26 23:48:57.578120, {} kontingenter - ref. 66444,-22465.81,2370,Kontingenter,Administrationsomkostninger
+2024-03-26 23:48:57.578120,,40662.15,1540,Gevinst ved salg af finansielle anlægsaktiver,Andre driftsindtægter
+2024-03-26 23:48:57.578120," {} investeringsejendomme, årets tilgange - ref. 67841",-38490.55,5170,"Investeringsejendomme, årets tilgange",Investeringsejendomme
+2024-03-26 23:48:57.578120, anden gæld (kortfristet gæld) {} - ref. 20261,-37127.35,8050,Anden gæld (kortfristet gæld),"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-27 23:48:57.578120,,-15026.42,2090,Vandafgift,Lokaleomkostninger
+2024-03-27 23:48:57.578120,,-10880.98,7030,Hensættelse til udskudt skat,Hensættelse til udskudt skat
+2024-03-28 23:48:57.578120,,-21401.78,1850,Annoncering og reklame,Salgsomkostninger
+2024-03-28 23:48:57.578120, {} periodeafgrænsningsposter - ref. 97792,-2905.78,8080,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2024-03-28 23:48:57.578120,,-21998.18,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2024-03-28 23:48:57.578120,,-10796.45,6971,Egenkapital i alt,Foreslået udbytte indregnet under egenkapitalen
+2024-03-28 23:48:57.578120, reserve for nettoopskrivning efter den indre værdis metode {} - ref. 71472,-33843.43,6590,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2024-03-28 23:48:57.578120,,19839.55,1550,Øvrige andre driftsindtægter,Andre driftsindtægter
+2024-03-28 23:48:57.578120,,-8927.92,6110,Varer under fremstilling,Varer under fremstilling
+2024-03-30 23:48:57.578120, betaling {} - renter til det offentlige (ej fradragsberettiget skattemæssigt) - ref. 27840,-30743.94,3675,Renter til det offentlige (ej fradragsberettiget skattemæssigt),Øvrige finansielle omkostninger
+2024-03-30 23:48:57.578120," {} af- og nedskrivninger af andre anlæg, driftsmateriel og inventar - ref. 51771",-32416.85,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-30 23:48:57.578120, af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner {} - ref. 69594,-21305.78,3080,Af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-03-30 23:48:57.578120,,-5595.94,6590,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2024-03-30 23:48:57.578120,,-13800.18,5450,"Produktionsanlæg og maskiner, øvrige værdireguleringer",Produktionsanlæg og maskiner
+2024-03-30 23:48:57.578120, betaling {} - anden skyldig pension - ref. 11291,-36166.37,8000,Anden skyldig pension,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-03-31 23:48:57.578120,,-37494.46,5060,"Goodwill, tilbageførte af- og nedskrivninger",Goodwill
+2024-03-31 23:48:57.578120,,-3359.73,6260,Kortfristede tilgodehavender hos tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-03-31 23:48:57.578120, foreslået udbytte indregnet under egenkapitalen {} - ref. 21694,-19121.21,6960,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2024-04-01 23:48:57.578120,,-10290.56,6310,Tilgodehavende kildeskat,Andre tilgodehavender (kortfristede)
+2024-04-01 23:48:57.578120,,-24600.6,5940,"Kapitalandele i kapitalinteresser, årets nedskrivninger",Kapitalandele i kapitalinteresser
+2024-04-01 23:48:57.578120, leasingforpligtelse - kortfristet {} - ref. 33750,-17195.84,7630,Leasingforpligtelse - kortfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-04-02 23:48:57.578120,,44484.46,1550,Øvrige andre driftsindtægter,Andre driftsindtægter
+2024-04-03 23:48:57.578120," {} periodeafgrænsningsposter, der kan opretholdes skattemæssigt - ref. 22719",-19903.48,6390,"Periodeafgrænsningsposter, der kan opretholdes skattemæssigt",Periodeafgrænsningsposter
+2024-04-03 23:48:57.578120,,-1217.31,5350,"Grunde og bygninger, årets forbedringer",Grunde og bygninger
+2024-04-03 23:48:57.578120,,-1086.46,5490,"Produktionsanlæg og maskiner, ultimo",Produktionsanlæg og maskiner
+2024-04-03 23:48:57.578120,,-44895.16,2510,Konsulentydelser,Administrationsomkostninger
+2024-04-04 23:48:57.578120,,-29426.02,5740,"Finansielt leasede aktiver, øvrige værdireguleringer",Finansielt leasede aktiver
+2024-04-04 23:48:57.578120,,-5563.63,7510,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-04-04 23:48:57.578120,,-44390.9,9999,PASSIVER I ALT,Periodeafgrænsningsposter
+2024-04-04 23:48:57.578120,,-30634.63,2540,"Driftsomkostninger, personbiler",Administrationsomkostninger
+2024-04-05 23:48:57.578120,,-1241.68,6550,Overkurs ved emission,Overkurs ved emission
+2024-04-06 23:48:57.578120, {} overført resultat - ref. 40556,-9672.69,6940,Overført resultat,Overført resultat
+2024-04-06 23:48:57.578120,,-41307.74,2520,Kursusudgifter,Administrationsomkostninger
+2024-04-06 23:48:57.578120,,-23669.65,5720,"Finansielt leasede aktiver, årets tilgange",Finansielt leasede aktiver
+2024-04-07 23:48:57.578120, {} andre værdipapirer og kapitalandele - ref. 68513,-21922.65,6010,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-04-07 23:48:57.578120,,-8725.34,6030,Øvrige (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2024-04-08 23:48:57.578120,,-24834.94,5810,"Kapitalandele i tilknyttede virksomheder, årets tilgange",Kapitalandele i tilknyttede virksomheder
+2024-04-09 23:48:57.578120,,-9931.94,3590,"Finansielle omkostninger, der hidrører fra tilknyttede virksomheder","Finansielle omkostninger, der hidrører fra tilknyttede virksomheder"
+2024-04-09 23:48:57.578120,,-29534.51,2280,Konstaterede tab på tilgodehavender fra salg og tjenesteydelser,Administrationsomkostninger
+2024-04-10 23:48:57.578120,,-22091.31,5350,"Grunde og bygninger, årets forbedringer",Grunde og bygninger
+2024-04-10 23:48:57.578120,,-27896.52,6460,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-04-10 23:48:57.578120, {} øvrige produktionsomkostninger - ref. 48039,-25378.55,2270,Øvrige produktionsomkostninger,Administrationsomkostninger
+2024-04-11 23:48:57.578120,,-10658.1,7330,Gæld til banker - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-04-11 23:48:57.578120, {} kursusudgifter - ref. 25837,-22785.3,2520,Kursusudgifter,Administrationsomkostninger
+2024-04-11 23:48:57.578120, gæld til kapitalinteresser - langfristet gæld {} - ref. 76267,-13977.87,7170,Gæld til kapitalinteresser - langfristet gæld,Gæld til tilknyttede virksomheder - langfristet gæld
+2024-04-11 23:48:57.578120,,-518.09,5060,"Goodwill, tilbageførte af- og nedskrivninger",Goodwill
+2024-04-12 23:48:57.578120, skyldige feriepenge {} - ref. 63440,-25884.01,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-04-12 23:48:57.578120,,-38946.91,7830,Co2-afgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-04-12 23:48:57.578120, regulering vedrørende tidligere år {} - ref. 89538,-26427.28,3780,Regulering vedrørende tidligere år,Skat af årets resultat
+2024-04-13 23:48:57.578120,,-16095.22,7760,Olie- og flaskegasafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-04-13 23:48:57.578120,,-41264.6,3680,Værdireguleringer af investeringsejendomme,Øvrige finansielle omkostninger
+2024-04-13 23:48:57.578120,,49724.65,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-04-14 23:48:57.578120,,-10324.07,5140,"Erhvervede immaterielle anlægsaktiver, ultimo",Erhvervede immaterielle anlægsaktiver
+2024-04-14 23:48:57.578120,,-28136.9,2630,Biludgifter efter statens takster,Administrationsomkostninger
+2024-04-14 23:48:57.578120,,-21719.75,2330,Skattefri rejse- og befordringsgodtgørelse,Administrationsomkostninger
+2024-04-14 23:48:57.578120, akkumulerede nedskrivninger til tab på tilgodehavender fra tilknyttede virksomheder {} - ref. 18973,-19076.58,6230,Akkumulerede nedskrivninger til tab på tilgodehavender fra tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-04-16 23:48:57.578120,,20651.68,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-04-16 23:48:57.578120,,-31197.33,2370,Kontingenter,Administrationsomkostninger
+2024-04-16 23:48:57.578120,,-7559.92,3030,Af- og nedskrivninger af produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-04-16 23:48:57.578120,,-1285.87,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2024-04-17 23:48:57.578120,,-8335.01,2380,Faglitteratur,Administrationsomkostninger
+2024-04-18 23:48:57.578120, {} foreslået udbytte indregnet under egenkapitalen - ref. 91364,-15503.86,6970,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2024-04-18 23:48:57.578120,,-42079.4,5920,"Kapitalandele i kapitalinteresser, årets afgange",Kapitalandele i kapitalinteresser
+2024-04-19 23:48:57.578120,,-22171.71,6910,Øvrige reserver,Andre reserver
+2024-04-19 23:48:57.578120," betaling {} - goodwill, årets af- og nedskrivninger - ref. 55675",-23026.25,5050,"Goodwill, årets af- og nedskrivninger",Goodwill
+2024-04-19 23:48:57.578120, {} reserve for opskrivninger - ref. 16900,-3177.68,6570,Reserve for opskrivninger,Reserve for opskrivninger
+2024-04-19 23:48:57.578120,,49475.39,1410,Varelagerregulering på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-04-20 23:48:57.578120,,-17201.14,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-04-20 23:48:57.578120,,-36679.15,2960,Andre personaleomkostninger,Personaleomkostninger
+2024-04-20 23:48:57.578120,,-7924.57,5300,"Investeringsejendomme under opførelse, tilbageførte nedskrivninger",Investeringsejendomme under opførelse
+2024-04-20 23:48:57.578120,,-11605.02,3590,"Finansielle omkostninger, der hidrører fra tilknyttede virksomheder","Finansielle omkostninger, der hidrører fra tilknyttede virksomheder"
+2024-04-20 23:48:57.578120,,-38133.68,1990,Gaver og blomster,Salgsomkostninger
+2024-04-21 23:48:57.578120,,-12185.19,7050,Andre hensatte forpligtelser,Andre hensatte forpligtelser
+2024-04-22 23:48:57.578120," finansielle omkostninger, der hidrører fra tilknyttede virksomheder {} - ref. 93535",-17964.32,3600,"Finansielle omkostninger, der hidrører fra tilknyttede virksomheder","Finansielle omkostninger, der hidrører fra tilknyttede virksomheder"
+2024-04-22 23:48:57.578120,,-30674.4,2280,Konstaterede tab på tilgodehavender fra salg og tjenesteydelser,Administrationsomkostninger
+2024-04-22 23:48:57.578120,,-27010.52,2270,Øvrige produktionsomkostninger,Administrationsomkostninger
+2024-04-22 23:48:57.578120,,-31592.13,2910,Pensioner,Personaleomkostninger
+2024-04-23 23:48:57.578120, betaling {} - tilgodehavender hos virksomhedsdeltagere og ledelse - ref. 90633,-31965.24,6060,Tilgodehavender hos virksomhedsdeltagere og ledelse,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-04-23 23:48:57.578120, renter fra banker {} - ref. 64646,-19558.6,3470,Renter fra banker,Andre finansielle indtægter
+2024-04-23 23:48:57.578120,,-3284.78,5400,"Grunde og bygninger, tilbageførte af- og nedskrivninger",Grunde og bygninger
+2024-04-24 23:48:57.578120,,-16397.05,3190,Andre driftsomkostninger,Andre driftsomkostninger
+2024-04-24 23:48:57.578120,,-45283.92,6530,Virksomhedskapital,Virksomhedskapital
+2024-04-24 23:48:57.578120,,-26684.8,3090,"Af- og nedskrivninger af finansielt leasede andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-04-24 23:48:57.578120, betaling fra {} a/s - ref. 47968,-32952.36,1630,"Varekøb udland, EU","Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-04-24 23:48:57.578120,,-12340.97,5170,"Investeringsejendomme, årets tilgange",Investeringsejendomme
+2024-04-24 23:48:57.578120,,-9907.64,6071,Finansielle anlægsaktiver,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-04-25 23:48:57.578120," {} andre anlæg, driftsmateriel og inventar, øvrige værdireguleringer - ref. 81200",-10221.22,5600,"Andre anlæg, driftsmateriel og inventar, øvrige værdireguleringer","Andre anlæg, driftsmateriel og inventar"
+2024-04-25 23:48:57.578120,,-15121.7,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2024-04-25 23:48:57.578120, betaling {} - hensatte forpligtelser - ref. 96159,-38022.71,7051,Hensatte forpligtelser,Andre hensatte forpligtelser
+2024-04-25 23:48:57.578120,,-46911.11,3100,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-04-25 23:48:57.578120,,-17997.01,6430,Kapitalandele i tilknyttede virksomheder,Kapitalandele i tilknyttede virksomheder
+2024-04-26 23:48:57.578120,,-30552.3,2480,Vikarassistance,Administrationsomkostninger
+2024-04-27 23:48:57.578120,,-12299.61,5660,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets afgange",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-04-27 23:48:57.578120,,-9494.57,2450,Kontorartikler,Administrationsomkostninger
+2024-04-28 23:48:57.578120,,-31430.13,6971,Egenkapital i alt,Foreslået udbytte indregnet under egenkapitalen
+2024-04-29 23:48:57.578120, leverandører af varer og tjenesteydelser {} - ref. 63037,-28539.37,7440,Leverandører af varer og tjenesteydelser,Leverandører af varer og tjenesteydelser
+2024-04-29 23:48:57.578120, betaling {} - leasingforpligtelse - kortfristet - ref. 49801,-41271.95,7630,Leasingforpligtelse - kortfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-04-30 23:48:57.578120,,-33420.91,5130,"Erhvervede immaterielle anlægsaktiver, tilbageførte af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-04-30 23:48:57.578120,,-1928.16,3440,Andre finansielle indtægter fra tilknyttede virksomheder,Andre finansielle indtægter fra tilknyttede virksomheder
+2024-04-30 23:48:57.578120,,-11047.0,5960,"Kapitalandele i kapitalinteresser, ultimo",Kapitalandele i kapitalinteresser
+2024-04-30 23:48:57.578120,,-915.22,2110,Kulafgift,Lokaleomkostninger
+2024-04-30 23:48:57.578120,,-15356.53,2470,Rejseudgifter,Administrationsomkostninger
+2024-05-01 23:48:57.578120, {} co2-afgift - ref. 90747,-13647.42,2130,Co2-afgift,Lokaleomkostninger
+2024-05-01 23:48:57.578120,,-23123.94,2030,"Husleje, ekskl. el, vand og varme",Lokaleomkostninger
+2024-05-02 23:48:57.578120,,-21679.55,8000,Anden skyldig pension,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-05-02 23:48:57.578120,,-44725.07,7160,Gæld til tilknyttede virksomheder - langfristet gæld,Gæld til tilknyttede virksomheder - langfristet gæld
+2024-05-02 23:48:57.578120,,-7711.25,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-05-02 23:48:57.578120,,32992.75,1460,Øvrige ændringer på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-05-03 23:48:57.578120,,-23398.83,3020,Af- og nedskrivninger af grunde og bygninger,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-05-04 23:48:57.578120, andre (langfristede) tilgodehavender {} - ref. 77263,-31986.09,6050,Andre (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2024-05-04 23:48:57.578120,,-48605.79,2370,Kontingenter,Administrationsomkostninger
+2024-05-04 23:48:57.578120,,14349.61,1100,"Salg af varer udland, ikke-EU",Nettoomsætning
+2024-05-04 23:48:57.578120,,-13629.42,5060,"Goodwill, tilbageførte af- og nedskrivninger",Goodwill
+2024-05-05 23:48:57.578120,,-22455.09,1630,"Varekøb udland, EU","Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-05-06 23:48:57.578120,,-48113.3,6510,Registreret kapital mv.,Virksomhedskapital
+2024-05-06 23:48:57.578120,,-26885.65,3400,"Øvrige indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2024-05-06 23:48:57.578120,,-21823.9,5760,"Finansielt leasede aktiver, tilbageførte af- og nedskrivninger",Finansielt leasede aktiver
+2024-05-08 23:48:57.578120,,39360.85,1410,Varelagerregulering på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-05-08 23:48:57.578120, betaling {} - materielle anlægsaktiver - ref. 55032,-40441.3,5771,Materielle anlægsaktiver,Finansielt leasede aktiver
+2024-05-09 23:48:57.578120, indbetaling {} - ref. 72719,24472.85,1460,Øvrige ændringer på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-05-09 23:48:57.578120,,-47121.43,6470,Likvide beholdninger,Likvide beholdninger
+2024-05-09 23:48:57.578120, personalegoder {} - ref. 90339,-27200.38,2965,Personalegoder,Personaleomkostninger
+2024-05-09 23:48:57.578120,,-13175.62,2540,"Driftsomkostninger, personbiler",Administrationsomkostninger
+2024-05-10 23:48:57.578120, {} igangværende arbejder for fremmed regning - ref. 86074,-33706.37,6280,Igangværende arbejder for fremmed regning,Igangværende arbejder for fremmed regning
+2024-05-10 23:48:57.578120,,-32889.63,7050,Andre hensatte forpligtelser,Andre hensatte forpligtelser
+2024-05-10 23:48:57.578120,,-38067.52,2280,Konstaterede tab på tilgodehavender fra salg og tjenesteydelser,Administrationsomkostninger
+2024-05-10 23:48:57.578120,,-38800.05,6450,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-05-11 23:48:57.578120,,-13152.04,2140,Øvrige afgifter,Lokaleomkostninger
+2024-05-12 23:48:57.578120," {} kurstab på likvider, bankgæld og prioritetsgæld - ref. 19618",-36846.96,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-05-12 23:48:57.578120,,-13009.77,2540,"Driftsomkostninger, personbiler",Administrationsomkostninger
+2024-05-13 23:48:57.578120,,-18444.47,2850,Lønninger,Personaleomkostninger
+2024-05-13 23:48:57.578120,,-27949.36,6590,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2024-05-14 23:48:57.578120," betaling {} - finansielt leasede aktiver, bogført værdi primo - ref. 75170",-38220.29,5710,"Finansielt leasede aktiver, bogført værdi primo",Finansielt leasede aktiver
+2024-05-14 23:48:57.578120,,-22165.34,5740,"Finansielt leasede aktiver, øvrige værdireguleringer",Finansielt leasede aktiver
+2024-05-14 23:48:57.578120,,-28465.34,7800,Naturgas- og bygasafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-05-14 23:48:57.578120,,-11275.72,6181,Varebeholdninger,Forudbetalinger for varer
+2024-05-15 23:48:57.578120,,-42201.33,7180,Gæld til tilknyttede virksomheder - langfristet gæld,Gæld til tilknyttede virksomheder - langfristet gæld
+2024-05-15 23:48:57.578120,,-11976.28,3130,"Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger","Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger"
+2024-05-15 23:48:57.578120,,-27161.26,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-05-15 23:48:57.578120,,-35907.51,1650,"Varekøb udland, ikke-EU","Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-05-15 23:48:57.578120,,-32193.35,7510,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-05-16 23:48:57.578120, betaling fra {} a/s - ref. 42595,-44704.86,1870,Udstillinger og dekoration,Salgsomkostninger
+2024-05-17 23:48:57.578120,,-37565.4,7820,Vandafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-05-17 23:48:57.578120, betaling {} - reserve for opskrivninger - ref. 19694,-35381.46,6560,Reserve for opskrivninger,Reserve for opskrivninger
+2024-05-17 23:48:57.578120,,-19735.33,2920,Vederlag til afløsning af pensionstilsagn,Personaleomkostninger
+2024-05-18 23:48:57.578120,,-1378.76,6200,Akkumulerede nedskrivninger til tab på tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-05-18 23:48:57.578120,,-18985.43,3190,Andre driftsomkostninger,Andre driftsomkostninger
+2024-05-18 23:48:57.578120,,-37155.93,6181,Varebeholdninger,Forudbetalinger for varer
+2024-05-18 23:48:57.578120," betaling {} - investeringsejendomme, årets forbedringer - ref. 95811",-17675.04,5190,"Investeringsejendomme, årets forbedringer",Investeringsejendomme
+2024-05-18 23:48:57.578120," kurstab på likvider, bankgæld og prioritetsgæld {} - ref. 10329",-10433.01,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-05-19 23:48:57.578120,,-31372.65,3780,Regulering vedrørende tidligere år,Skat af årets resultat
+2024-05-19 23:48:57.578120, overførsel fra {} - ref. 92541,4496.7,1300,Regulering igangværende arbejder,Nettoomsætning
+2024-05-19 23:48:57.578120,,-14123.42,6040,Deposita,Andre (langfristede) tilgodehavender
+2024-05-20 23:48:57.578120,,-7487.84,7050,Andre hensatte forpligtelser,Andre hensatte forpligtelser
+2024-05-20 23:48:57.578120,,-18959.01,3060,Af- og nedskrivninger af software,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-05-20 23:48:57.578120,,-48415.03,3450,Andre finansielle indtægter fra tilknyttede virksomheder,Andre finansielle indtægter fra tilknyttede virksomheder
+2024-05-21 23:48:57.578120,,-8806.96,5250,"Investeringsejendomme under opførelse, årets tilgange",Investeringsejendomme under opførelse
+2024-05-21 23:48:57.578120, øvrige (langfristede) tilgodehavender {} - ref. 54201,-41683.45,6030,Øvrige (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2024-05-22 23:48:57.578120,,-35230.66,5550,"Indretning af lejede lokaler, tilbageførte af- og nedskrivninger",Indretning af lejede lokaler
+2024-05-23 23:48:57.578120,,-42354.63,7510,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-05-23 23:48:57.578120,,-15584.57,5700,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, ultimo",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-05-25 23:48:57.578120," grunde og bygninger, øvrige værdireguleringer {} - ref. 82326",-2888.26,5370,"Grunde og bygninger, øvrige værdireguleringer",Grunde og bygninger
+2024-05-25 23:48:57.578120,,-7842.68,2720,Øreafrunding/kassedifferencer,Administrationsomkostninger
+2024-05-26 23:48:57.578120,,-22413.9,5060,"Goodwill, tilbageførte af- og nedskrivninger",Goodwill
+2024-05-26 23:48:57.578120,,-37544.78,7420,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2024-05-26 23:48:57.578120,,-12578.53,6520,Indbetalt registreret kapital mv.,Virksomhedskapital
+2024-05-26 23:48:57.578120,,-17913.98,6410,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2024-05-27 23:48:57.578120, akkumulerede nedskrivninger til tab på tilgodehavender fra kapitalinteresser {} - ref. 43548,-48583.95,6250,Akkumulerede nedskrivninger til tab på tilgodehavender fra kapitalinteresser,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-05-27 23:48:57.578120, betaling {} - nedskrivning på råvarer og hjælpematerialer - ref. 73170,-6362.32,6090,Nedskrivning på råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-05-28 23:48:57.578120,,-49062.94,6940,Overført resultat,Overført resultat
+2024-05-28 23:48:57.578120,,-5205.39,6181,Varebeholdninger,Forudbetalinger for varer
+2024-05-29 23:48:57.578120,,-7621.91,6030,Øvrige (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2024-05-29 23:48:57.578120, betaling fra {} a/s - ref. 10331,-25387.82,1830,Fragtomkostninger,Salgsomkostninger
+2024-05-30 23:48:57.578120,,-42106.46,6072,Anlægsaktiver i alt,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-05-30 23:48:57.578120,,-10833.89,8040,Øvrig anden gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-05-31 23:48:57.578120,,-18865.15,6450,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-06-01 23:48:57.578120,,-26609.06,5570,"Andre anlæg, driftsmateriel og inventar, bogført værdi primo","Andre anlæg, driftsmateriel og inventar"
+2024-06-02 23:48:57.578120, {} aktiver i alt - ref. 77812,-2315.29,6499,AKTIVER I ALT,Likvide beholdninger
+2024-06-02 23:48:57.578120," øvrige indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver {} - ref. 25273",-33770.68,3400,"Øvrige indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2024-06-02 23:48:57.578120, kantineudgifter {} - ref. 59479,-5735.33,2350,Kantineudgifter,Administrationsomkostninger
+2024-06-03 23:48:57.578120, {} gæld til kreditinstitutter - kortfristet gæld - ref. 56771,-41459.18,7310,Gæld til kreditinstitutter - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-06-03 23:48:57.578120,,-8556.85,5670,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, øvrige værdireguleringer",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-06-03 23:48:57.578120,,-6138.26,5630,"Andre anlæg, driftsmateriel og inventar, ultimo","Andre anlæg, driftsmateriel og inventar"
+2024-06-04 23:48:57.578120,,-10358.46,7410,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2024-06-04 23:48:57.578120,,-7759.4,6520,Indbetalt registreret kapital mv.,Virksomhedskapital
+2024-06-05 23:48:57.578120,,-26655.46,5860,"Kapitalandele i tilknyttede virksomheder, ultimo",Kapitalandele i tilknyttede virksomheder
+2024-06-05 23:48:57.578120, {} kreditinstitutter i øvrigt - ref. 23936,-19360.01,7350,Kreditinstitutter i øvrigt,Gæld til kreditinstitutter - kortfristet gæld
+2024-06-05 23:48:57.578120,,-2703.94,6300,Tilgodehavende selskabsskat (kortfristet),Andre tilgodehavender (kortfristede)
+2024-06-05 23:48:57.578120,,-42064.89,2370,Kontingenter,Administrationsomkostninger
+2024-06-05 23:48:57.578120,,-42624.58,6060,Tilgodehavender hos virksomhedsdeltagere og ledelse,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-06-05 23:48:57.578120,,-48290.04,5870,Langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2024-06-06 23:48:57.578120,,-17354.78,3440,Andre finansielle indtægter fra tilknyttede virksomheder,Andre finansielle indtægter fra tilknyttede virksomheder
+2024-06-06 23:48:57.578120, {} råvarer og hjælpematerialer - ref. 92116,-31060.64,6100,Råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-06-07 23:48:57.578120,,-35990.45,6260,Kortfristede tilgodehavender hos tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-06-07 23:48:57.578120," {} andre anlæg, driftsmateriel og inventar, årets af- og nedskrivninger - ref. 25370",-22807.94,5610,"Andre anlæg, driftsmateriel og inventar, årets af- og nedskrivninger","Andre anlæg, driftsmateriel og inventar"
+2024-06-07 23:48:57.578120,,-16634.79,2900,AM Bidragsfri A-Indkomst,Personaleomkostninger
+2024-06-07 23:48:57.578120,,-33509.6,2968,Lønrefusioner,Personaleomkostninger
+2024-06-08 23:48:57.578120,,-26197.29,2560,"Driftsomkostninger, varebiler",Administrationsomkostninger
+2024-06-08 23:48:57.578120, {} faktura nr. {} - ref. 63500,19040.55,1010,Salg af varer og ydelser,Nettoomsætning
+2024-06-08 23:48:57.578120,,-6363.02,2831,Andre eksterne omkostninger,Administrationsomkostninger
+2024-06-09 23:48:57.578120,,-37498.8,7350,Kreditinstitutter i øvrigt,Gæld til kreditinstitutter - kortfristet gæld
+2024-06-09 23:48:57.578120," grunde og bygninger, ultimo {} - ref. 83647",-16186.12,5410,"Grunde og bygninger, ultimo",Grunde og bygninger
+2024-06-09 23:48:57.578120,,-5362.3,5410,"Grunde og bygninger, ultimo",Grunde og bygninger
+2024-06-10 23:48:57.578120,,-47137.53,5370,"Grunde og bygninger, øvrige værdireguleringer",Grunde og bygninger
+2024-06-10 23:48:57.578120, {} af- og nedskrivninger af erhvervede immaterielle anlægsaktiver - ref. 36525,-45911.29,3000,Af- og nedskrivninger af erhvervede immaterielle anlægsaktiver,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-06-10 23:48:57.578120,,-1013.43,3670,Renter til banker og realkreditinstitutter,Øvrige finansielle omkostninger
+2024-06-10 23:48:57.578120,,-36433.57,2900,AM Bidragsfri A-Indkomst,Personaleomkostninger
+2024-06-10 23:48:57.578120,,-11029.78,3250,Indtægter af kapitalandele,Indtægter af kapitalandele i kapitalinteresser
+2024-06-11 23:48:57.578120,,-9552.18,5900,"Kapitalandele i kapitalinteresser, bogført værdi primo",Kapitalandele i kapitalinteresser
+2024-06-11 23:48:57.578120,,-6524.3,2210,Lokaleomkostninger,Lokaleomkostninger
+2024-06-12 23:48:57.578120, {} telefon og internet mv. (kun virksomhed) - ref. 34283,-41905.26,2410,Telefon og internet mv. (kun virksomhed),Administrationsomkostninger
+2024-06-12 23:48:57.578120, betaling {} - bestyrelseshonorar - ref. 43914,-35908.05,2880,Bestyrelseshonorar,Personaleomkostninger
+2024-06-13 23:48:57.578120,,-15920.3,6570,Reserve for opskrivninger,Reserve for opskrivninger
+2024-06-13 23:48:57.578120, overførsel fra {} - ref. 82583,-45355.82,1660,Ydelseskøb,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-06-13 23:48:57.578120, {} fremstillede varer og handelsvarer - ref. 59309,-20124.38,6140,Fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-06-13 23:48:57.578120,,-37234.45,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-06-13 23:48:57.578120," erhvervede immaterielle anlægsaktiver, årets af- og nedskrivninger {} - ref. 20510",-21425.98,5120,"Erhvervede immaterielle anlægsaktiver, årets af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-06-13 23:48:57.578120,,-6355.93,5690,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, tilbageførte nedskrivninger",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-06-14 23:48:57.578120,,-5062.5,5970,Langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-06-14 23:48:57.578120,,-25072.81,5400,"Grunde og bygninger, tilbageførte af- og nedskrivninger",Grunde og bygninger
+2024-06-14 23:48:57.578120," betaling {} - investeringsejendomme, årets tilgange - ref. 34122",-42787.17,5170,"Investeringsejendomme, årets tilgange",Investeringsejendomme
+2024-06-15 23:48:57.578120,,-7639.74,5940,"Kapitalandele i kapitalinteresser, årets nedskrivninger",Kapitalandele i kapitalinteresser
+2024-06-15 23:48:57.578120,,-17205.77,2070,Vand,Lokaleomkostninger
+2024-06-15 23:48:57.578120,,-26387.86,3700,Øvrige finansielle omkostninger,Øvrige finansielle omkostninger
+2024-06-16 23:48:57.578120,,-41632.44,6430,Kapitalandele i tilknyttede virksomheder,Kapitalandele i tilknyttede virksomheder
+2024-06-16 23:48:57.578120, betaling {} - øvrige lovpligtige reserver - ref. 80459,-49976.19,6870,Øvrige lovpligtige reserver,Andre reserver
+2024-06-16 23:48:57.578120,,-10640.03,5100,"Erhvervede immaterielle anlægsaktiver, årets afgange",Erhvervede immaterielle anlægsaktiver
+2024-06-16 23:48:57.578120,,-8468.45,5470,"Produktionsanlæg og maskiner, årets af- og nedskrivninger",Produktionsanlæg og maskiner
+2024-06-16 23:48:57.578120,,-11763.2,5700,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, ultimo",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-06-17 23:48:57.578120, {} skyldige feriepenge - ref. 29447,-44395.37,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-06-18 23:48:57.578120,,-39938.9,5040,"Goodwill, øvrige værdireguleringer",Goodwill
+2024-06-18 23:48:57.578120, {} biludgifter efter statens takster - ref. 56012,-27635.92,2630,Biludgifter efter statens takster,Administrationsomkostninger
+2024-06-18 23:48:57.578120,,-36553.56,6010,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-06-18 23:48:57.578120,,-33623.53,8050,Anden gæld (kortfristet gæld),"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-06-18 23:48:57.578120, ej skattemæssigt fradragsberettigede rådgivningshonorarer {} - ref. 13296,-28499.27,2700,Ej skattemæssigt fradragsberettigede rådgivningshonorarer,Administrationsomkostninger
+2024-06-19 23:48:57.578120,,-3653.64,5300,"Investeringsejendomme under opførelse, tilbageførte nedskrivninger",Investeringsejendomme under opførelse
+2024-06-19 23:48:57.578120,,-24365.21,5180,"Investeringsejendomme, årets afgange",Investeringsejendomme
+2024-06-19 23:48:57.578120, betaling {} - anden gæld (kortfristet gæld) - ref. 90422,-3163.86,8050,Anden gæld (kortfristet gæld),"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-06-20 23:48:57.578120,,-27536.76,3530,Øvrige finansielle indtægter,Andre finansielle indtægter
+2024-06-20 23:48:57.578120,,-1067.57,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-06-21 23:48:57.578120, regulering af tilgodehavender fra tilknyttede virksomheder og associerede virksomheder {} - ref. 43688,-38647.84,2300,Regulering af tilgodehavender fra tilknyttede virksomheder og associerede virksomheder,Administrationsomkostninger
+2024-06-22 23:48:57.578120, offentlige gebyrer og bøder (ej fradragsberettiget skattemæssigt) {} - ref. 26721,-31858.72,2660,Offentlige gebyrer og bøder (ej fradragsberettiget skattemæssigt),Administrationsomkostninger
+2024-06-22 23:48:57.578120,,35926.5,1430,Nedskrivning på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-06-22 23:48:57.578120,,34799.9,1390,Nettoomsætning,Nettoomsætning
+2024-06-23 23:48:57.578120,,-16103.0,6970,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2024-06-24 23:48:57.578120, {} faktura nr. {} - ref. 17481,34139.82,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-06-24 23:48:57.578120,,-21755.27,6430,Kapitalandele i tilknyttede virksomheder,Kapitalandele i tilknyttede virksomheder
+2024-06-24 23:48:57.578120," investeringsejendomme, bogført værdi primo {} - ref. 93127",-15192.44,5160,"Investeringsejendomme, bogført værdi primo",Investeringsejendomme
+2024-06-24 23:48:57.578120, øvrige finansielle omkostninger {} - ref. 43190,-19243.35,3700,Øvrige finansielle omkostninger,Øvrige finansielle omkostninger
+2024-06-26 23:48:57.578120,,-45789.35,2990,Personaleomkostninger,Personaleomkostninger
+2024-06-26 23:48:57.578120, {} regulering af tilgodehavender fra tilknyttede virksomheder og associerede virksomheder - ref. 70552,-19585.55,2300,Regulering af tilgodehavender fra tilknyttede virksomheder og associerede virksomheder,Administrationsomkostninger
+2024-06-26 23:48:57.578120,,4569.36,1430,Nedskrivning på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-06-27 23:48:57.578120, anden skyldig pension {} - ref. 70091,-36394.56,8000,Anden skyldig pension,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-06-27 23:48:57.578120,,-15053.82,3600,"Finansielle omkostninger, der hidrører fra tilknyttede virksomheder","Finansielle omkostninger, der hidrører fra tilknyttede virksomheder"
+2024-06-28 23:48:57.578120, betaling {} - kulafgift - ref. 51025,-32329.03,7810,Kulafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-06-28 23:48:57.578120,,-30161.73,2460,Leje og operationelle leasingydelser (ekskl. husleje),Administrationsomkostninger
+2024-06-28 23:48:57.578120, vederlag til afløsning af pensionstilsagn {} - ref. 94431,-23784.31,2920,Vederlag til afløsning af pensionstilsagn,Personaleomkostninger
+2024-06-28 23:48:57.578120," {} indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver - ref. 80425",-34491.04,3410,"Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2024-06-29 23:48:57.578120,,15369.47,1390,Nettoomsætning,Nettoomsætning
+2024-06-29 23:48:57.578120,,-16359.38,6160,Fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-06-29 23:48:57.578120, bruttofortjeneste/bruttotab {} - ref. 37400,-44535.09,2840,Bruttofortjeneste/Bruttotab,Administrationsomkostninger
+2024-06-29 23:48:57.578120,,-35717.19,3470,Renter fra banker,Andre finansielle indtægter
+2024-06-29 23:48:57.578120,,-34713.02,5550,"Indretning af lejede lokaler, tilbageførte af- og nedskrivninger",Indretning af lejede lokaler
+2024-06-29 23:48:57.578120,,-22774.04,5030,"Goodwill, årets afgange",Goodwill
+2024-06-30 23:48:57.578120,,-13078.14,6370,Kortfristede tilgodehavender hos virksomhedsdeltagere og ledelse,Kortfristede tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-06-30 23:48:57.578120,,-27172.25,6290,Udskudte skatteaktiver,Andre tilgodehavender (kortfristede)
+2024-07-01 23:48:57.578120, {} faktura nr. {} - ref. 89840,39743.16,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-07-01 23:48:57.578120, {} periodeafgrænsningsposter - ref. 96188,-42734.18,8070,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2024-07-01 23:48:57.578120,,-11243.48,6010,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-07-01 23:48:57.578120,,-6730.0,3570,Nedskrivning af finansielle aktiver,Nedskrivning af finansielle aktiver
+2024-07-01 23:48:57.578120, betaling {} - virksomhedskapital - ref. 31688,-45975.52,6530,Virksomhedskapital,Virksomhedskapital
+2024-07-02 23:48:57.578120, {} gæld til selskabsdeltagere og ledelse - kortfristet gæld - ref. 28863,-17061.67,7590,Gæld til selskabsdeltagere og ledelse - kortfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-02 23:48:57.578120,,-35548.88,6590,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2024-07-04 23:48:57.578120,,-44591.7,7630,Leasingforpligtelse - kortfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-04 23:48:57.578120,,-40286.05,5900,"Kapitalandele i kapitalinteresser, bogført værdi primo",Kapitalandele i kapitalinteresser
+2024-07-05 23:48:57.578120,,-29350.09,5470,"Produktionsanlæg og maskiner, årets af- og nedskrivninger",Produktionsanlæg og maskiner
+2024-07-05 23:48:57.578120,,-1904.49,6430,Kapitalandele i tilknyttede virksomheder,Kapitalandele i tilknyttede virksomheder
+2024-07-06 23:48:57.578120,,-33537.52,3040,Af- og nedskrivninger af indretning af lejede lokaler,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-07-06 23:48:57.578120,,12339.04,1150,"Salg af ydelser udland, EU",Nettoomsætning
+2024-07-07 23:48:57.578120, {} registreret kapital mv. - ref. 46891,-15769.22,6510,Registreret kapital mv.,Virksomhedskapital
+2024-07-07 23:48:57.578120," {} finansielt leasede aktiver, årets tilgange - ref. 10115",-7813.74,5720,"Finansielt leasede aktiver, årets tilgange",Finansielt leasede aktiver
+2024-07-08 23:48:57.578120,,-30436.67,2968,Lønrefusioner,Personaleomkostninger
+2024-07-08 23:48:57.578120,,-17978.18,3210,Indtægter af kapitalandele i tilknyttede virksomheder,Indtægter af kapitalandele i tilknyttede virksomheder
+2024-07-09 23:48:57.578120,,-5440.65,2450,Kontorartikler,Administrationsomkostninger
+2024-07-09 23:48:57.578120,,-49475.99,5250,"Investeringsejendomme under opførelse, årets tilgange",Investeringsejendomme under opførelse
+2024-07-09 23:48:57.578120,,-46433.23,7960,Skyldigt ATP-bidrag,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-09 23:48:57.578120,,-11083.7,5050,"Goodwill, årets af- og nedskrivninger",Goodwill
+2024-07-09 23:48:57.578120, betaling {} - nedskrivning på langfristede tilgodehavender hos kapitalinteresser - ref. 95684,-26221.91,5980,Nedskrivning på langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-07-10 23:48:57.578120,,-16197.6,3250,Indtægter af kapitalandele,Indtægter af kapitalandele i kapitalinteresser
+2024-07-11 23:48:57.578120,,-2056.81,5900,"Kapitalandele i kapitalinteresser, bogført værdi primo",Kapitalandele i kapitalinteresser
+2024-07-11 23:48:57.578120,,-43065.6,5300,"Investeringsejendomme under opførelse, tilbageførte nedskrivninger",Investeringsejendomme under opførelse
+2024-07-12 23:48:57.578120, betaling {} - leasingforpligtelse - langfristet gæld - ref. 68666,-15153.44,7240,Leasingforpligtelse - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-12 23:48:57.578120,,-23309.71,6130,Varer under fremstilling,Varer under fremstilling
+2024-07-12 23:48:57.578120,,-947.7,5350,"Grunde og bygninger, årets forbedringer",Grunde og bygninger
+2024-07-12 23:48:57.578120,,-37200.4,5910,"Kapitalandele i kapitalinteresser, årets tilgange",Kapitalandele i kapitalinteresser
+2024-07-13 23:48:57.578120, gæld til kreditinstitutter - kortfristet gæld {} - ref. 40911,-30351.71,7310,Gæld til kreditinstitutter - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-07-13 23:48:57.578120, betaling {} - rengøring og renovation (affaldshåndtering) - ref. 65839,-43234.82,2150,Rengøring og renovation (affaldshåndtering),Lokaleomkostninger
+2024-07-14 23:48:57.578120,,-35770.43,6040,Deposita,Andre (langfristede) tilgodehavender
+2024-07-15 23:48:57.578120, betaling {} - nedskrivning på fremstillede varer og handelsvarer - ref. 75032,-15714.86,6150,Nedskrivning på fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-07-15 23:48:57.578120,,-29530.58,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2024-07-15 23:48:57.578120, varme {} - ref. 11649,-23827.07,2080,Varme,Lokaleomkostninger
+2024-07-15 23:48:57.578120,,-31239.35,2420,Telefon og internet mv. (delvist privat),Administrationsomkostninger
+2024-07-16 23:48:57.578120,,-2794.73,2300,Regulering af tilgodehavender fra tilknyttede virksomheder og associerede virksomheder,Administrationsomkostninger
+2024-07-16 23:48:57.578120," betaling {} - andre anlæg, driftsmateriel og inventar, bogført værdi primo - ref. 91417",-6558.06,5570,"Andre anlæg, driftsmateriel og inventar, bogført værdi primo","Andre anlæg, driftsmateriel og inventar"
+2024-07-16 23:48:57.578120,,42519.82,1550,Øvrige andre driftsindtægter,Andre driftsindtægter
+2024-07-16 23:48:57.578120,,-12356.32,6020,Udskudte skatteaktiver,Andre (langfristede) tilgodehavender
+2024-07-18 23:48:57.578120,,32246.44,1530,Gevinst ved salg af materielle anlægsaktiver,Andre driftsindtægter
+2024-07-18 23:48:57.578120, betaling {} - overført resultat - ref. 63757,-7885.26,6950,Overført resultat,Overført resultat
+2024-07-18 23:48:57.578120, betaling {} - anden skyldig pension - ref. 13713,-11432.16,8000,Anden skyldig pension,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-18 23:48:57.578120,,-22518.75,5480,"Produktionsanlæg og maskiner, tilbageførte af- og nedskrivninger",Produktionsanlæg og maskiner
+2024-07-18 23:48:57.578120,,-12534.4,2860,Feriepengeforpligtelse,Personaleomkostninger
+2024-07-19 23:48:57.578120," {} kapitalandele i kapitalinteresser, årets tilgange - ref. 82839",-25712.36,5910,"Kapitalandele i kapitalinteresser, årets tilgange",Kapitalandele i kapitalinteresser
+2024-07-20 23:48:57.578120,,-10736.43,7250,Selskabsskat - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-21 23:48:57.578120,,-37169.87,5140,"Erhvervede immaterielle anlægsaktiver, ultimo",Erhvervede immaterielle anlægsaktiver
+2024-07-22 23:48:57.578120, langfristet gæld {} - ref. 78265,-46166.16,7261,Langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-22 23:48:57.578120,,-34508.46,7230,Deposita - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-23 23:48:57.578120, betaling {} - gæld til selskabsdeltagere og ledelse - kortfristet gæld - ref. 47524,-29977.29,7590,Gæld til selskabsdeltagere og ledelse - kortfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-07-23 23:48:57.578120,,-4695.21,2120,Naturgas- og bygasafgift,Lokaleomkostninger
+2024-07-23 23:48:57.578120, andre værdipapirer og kapitalandele {} - ref. 95599,-43421.2,6450,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-07-23 23:48:57.578120,,-27655.73,5730,"Finansielt leasede aktiver, årets afgange",Finansielt leasede aktiver
+2024-07-23 23:48:57.578120," betaling {} - kapitalandele i tilknyttede virksomheder, øvrige værdireguleringer - ref. 38684",-2451.43,5830,"Kapitalandele i tilknyttede virksomheder, øvrige værdireguleringer",Kapitalandele i tilknyttede virksomheder
+2024-07-24 23:48:57.578120,,-47951.56,2990,Personaleomkostninger,Personaleomkostninger
+2024-07-24 23:48:57.578120,,-11953.13,3560,Nedskrivning af finansielle aktiver,Nedskrivning af finansielle aktiver
+2024-07-24 23:48:57.578120,,-26983.72,5771,Materielle anlægsaktiver,Finansielt leasede aktiver
+2024-07-24 23:48:57.578120," betaling {} - investeringsejendomme, årets forbedringer - ref. 53393",-11151.74,5190,"Investeringsejendomme, årets forbedringer",Investeringsejendomme
+2024-07-24 23:48:57.578120,,-9630.6,5280,"Investeringsejendomme under opførelse, øvrige værdireguleringer",Investeringsejendomme under opførelse
+2024-07-25 23:48:57.578120,,-31014.27,2070,Vand,Lokaleomkostninger
+2024-07-25 23:48:57.578120,,-38537.97,5600,"Andre anlæg, driftsmateriel og inventar, øvrige værdireguleringer","Andre anlæg, driftsmateriel og inventar"
+2024-07-25 23:48:57.578120,,-5425.65,5120,"Erhvervede immaterielle anlægsaktiver, årets af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-07-26 23:48:57.578120,,-47711.4,3620,"Valutakursreguleringer, udenlandske dattervirksomheder",Øvrige finansielle omkostninger
+2024-07-28 23:48:57.578120," grunde og bygninger, årets forbedringer {} - ref. 57668",-18401.8,5350,"Grunde og bygninger, årets forbedringer",Grunde og bygninger
+2024-07-29 23:48:57.578120,,-18650.98,6300,Tilgodehavende selskabsskat (kortfristet),Andre tilgodehavender (kortfristede)
+2024-07-29 23:48:57.578120,,-41031.38,6140,Fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-07-30 23:48:57.578120, hensættelser til udskudt skat {} - ref. 45058,-4525.27,7010,Hensættelser til udskudt skat,Hensættelse til udskudt skat
+2024-07-30 23:48:57.578120,,-11098.64,3400,"Øvrige indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2024-07-31 23:48:57.578120, betaling {} - langfristede tilgodehavender hos tilknyttede virksomheder - ref. 35674,-49145.36,5890,Langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2024-07-31 23:48:57.578120,,-13630.35,2630,Biludgifter efter statens takster,Administrationsomkostninger
+2024-07-31 23:48:57.578120,,-22496.21,5250,"Investeringsejendomme under opførelse, årets tilgange",Investeringsejendomme under opførelse
+2024-07-31 23:48:57.578120,,-22566.55,5310,"Investeringsejendomme under opførelse, ultimo",Investeringsejendomme under opførelse
+2024-08-01 23:48:57.578120,,-10384.6,2720,Øreafrunding/kassedifferencer,Administrationsomkostninger
+2024-08-01 23:48:57.578120,,38263.84,1010,Salg af varer og ydelser,Nettoomsætning
+2024-08-02 23:48:57.578120," betaling {} - andre anlæg, driftsmateriel og inventar, tilbageførte af- og nedskrivninger - ref. 48123",-561.89,5620,"Andre anlæg, driftsmateriel og inventar, tilbageførte af- og nedskrivninger","Andre anlæg, driftsmateriel og inventar"
+2024-08-02 23:48:57.578120, {} salgsmoms - ref. 87568,-18707.93,7680,Salgsmoms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-08-02 23:48:57.578120," grunde og bygninger, årets afgange {} - ref. 10207",-19151.41,5340,"Grunde og bygninger, årets afgange",Grunde og bygninger
+2024-08-03 23:48:57.578120,,-23853.6,7160,Gæld til tilknyttede virksomheder - langfristet gæld,Gæld til tilknyttede virksomheder - langfristet gæld
+2024-08-03 23:48:57.578120," {} kurstab på likvider, bankgæld og prioritetsgæld - ref. 75643",-8653.33,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-08-04 23:48:57.578120,,-11740.99,2960,Andre personaleomkostninger,Personaleomkostninger
+2024-08-05 23:48:57.578120,,-6321.01,2710,Administrationsvederlag/management fee,Administrationsomkostninger
+2024-08-05 23:48:57.578120,,-32356.33,7410,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2024-08-05 23:48:57.578120,,-3914.49,2050,El,Lokaleomkostninger
+2024-08-05 23:48:57.578120,,-33880.15,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2024-08-06 23:48:57.578120, {} kortfristede tilgodehavender hos tilknyttede virksomheder - ref. 15372,-9916.91,6220,Kortfristede tilgodehavender hos tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-08-06 23:48:57.578120,,-34286.43,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-08-07 23:48:57.578120, af- og nedskrivninger af produktionsanlæg og maskiner {} - ref. 51269,-7643.5,3030,Af- og nedskrivninger af produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-08-08 23:48:57.578120,,-1205.39,2060,Elafgift,Lokaleomkostninger
+2024-08-09 23:48:57.578120,,-34933.36,6150,Nedskrivning på fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-08-09 23:48:57.578120,,-16739.7,5680,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets nedskrivninger",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-08-09 23:48:57.578120, nedskrivning på varer under fremstilling {} - ref. 17803,-27661.5,6120,Nedskrivning på varer under fremstilling,Varer under fremstilling
+2024-08-10 23:48:57.578120,,-29924.2,1930,"Repræsentationsomkostninger, fuld fradragsret skattemæssigt",Salgsomkostninger
+2024-08-10 23:48:57.578120,,-36581.74,5500,"Indretning af lejede lokaler, bogført værdi primo",Indretning af lejede lokaler
+2024-08-10 23:48:57.578120,,-31104.98,5850,"Kapitalandele i tilknyttede virksomheder, tilbageførte nedskrivninger",Kapitalandele i tilknyttede virksomheder
+2024-08-11 23:48:57.578120,,-25622.35,6950,Overført resultat,Overført resultat
+2024-08-11 23:48:57.578120,,-29539.98,3470,Renter fra banker,Andre finansielle indtægter
+2024-08-12 23:48:57.578120,,-38677.16,2060,Elafgift,Lokaleomkostninger
+2024-08-13 23:48:57.578120,,-45833.13,3675,Renter til det offentlige (ej fradragsberettiget skattemæssigt),Øvrige finansielle omkostninger
+2024-08-13 23:48:57.578120, foreslået udbytte indregnet under egenkapitalen {} - ref. 26221,-24987.77,6970,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2024-08-13 23:48:57.578120,,-28149.53,2480,Vikarassistance,Administrationsomkostninger
+2024-08-14 23:48:57.578120,,-45033.03,5190,"Investeringsejendomme, årets forbedringer",Investeringsejendomme
+2024-08-15 23:48:57.578120,,-41573.86,2050,El,Lokaleomkostninger
+2024-08-15 23:48:57.578120,,-2319.66,2350,Kantineudgifter,Administrationsomkostninger
+2024-08-15 23:48:57.578120,,-8348.11,7260,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-08-16 23:48:57.578120,,-11928.98,7440,Leverandører af varer og tjenesteydelser,Leverandører af varer og tjenesteydelser
+2024-08-16 23:48:57.578120,,-19569.07,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2024-08-16 23:48:57.578120,,-46993.32,2210,Lokaleomkostninger,Lokaleomkostninger
+2024-08-16 23:48:57.578120,,-6940.6,6340,Andre tilgodehavender (kortfristede),Andre tilgodehavender (kortfristede)
+2024-08-17 23:48:57.578120, årets resultat {} - ref. 88677,-18586.76,4999,Årets resultat,Andre skatter
+2024-08-17 23:48:57.578120, fri bil {} - ref. 29028,-20634.28,2640,Fri bil,Administrationsomkostninger
+2024-08-18 23:48:57.578120,,-16509.11,3170,Tab ved salg af materielle anlægsaktiver,Andre driftsomkostninger
+2024-08-18 23:48:57.578120, øvrige afgifter {} - ref. 98970,-28736.63,2140,Øvrige afgifter,Lokaleomkostninger
+2024-08-20 23:48:57.578120,,-3223.35,6971,Egenkapital i alt,Foreslået udbytte indregnet under egenkapitalen
+2024-08-20 23:48:57.578120,,-26948.96,5040,"Goodwill, øvrige værdireguleringer",Goodwill
+2024-08-20 23:48:57.578120, {} nedskrivning på langfristede tilgodehavender hos tilknyttede virksomheder - ref. 51102,-44710.25,5880,Nedskrivning på langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2024-08-20 23:48:57.578120," faktura {} - repræsentationsomkostninger, fuld fradragsret skattemæssigt - ref. 80850",-27291.27,1930,"Repræsentationsomkostninger, fuld fradragsret skattemæssigt",Salgsomkostninger
+2024-08-21 23:48:57.578120, {} renter til det offentlige (ej fradragsberettiget skattemæssigt) - ref. 30731,-28145.18,3675,Renter til det offentlige (ej fradragsberettiget skattemæssigt),Øvrige finansielle omkostninger
+2024-08-21 23:48:57.578120,,-31204.12,2710,Administrationsvederlag/management fee,Administrationsomkostninger
+2024-08-21 23:48:57.578120,,-12454.7,6170,Forudbetalinger for varer,Forudbetalinger for varer
+2024-08-23 23:48:57.578120,,-41220.68,7260,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-08-24 23:48:57.578120,,-27725.59,2010,Salgsomkostninger,Salgsomkostninger
+2024-08-24 23:48:57.578120,,-15312.87,1740,"Ydelseskøb, udland, ikke-EU","Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-08-24 23:48:57.578120," kurstab på likvider, bankgæld og prioritetsgæld {} - ref. 22005",-34891.81,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-08-24 23:48:57.578120, {} deposita - ref. 49975,-26923.59,6040,Deposita,Andre (langfristede) tilgodehavender
+2024-08-25 23:48:57.578120, betaling {} - nedskrivning på langfristede tilgodehavender hos tilknyttede virksomheder - ref. 92169,-5671.1,5880,Nedskrivning på langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2024-08-25 23:48:57.578120,,-6574.41,5600,"Andre anlæg, driftsmateriel og inventar, øvrige værdireguleringer","Andre anlæg, driftsmateriel og inventar"
+2024-08-25 23:48:57.578120,,-35820.69,5980,Nedskrivning på langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-08-25 23:48:57.578120,,-38389.16,3170,Tab ved salg af materielle anlægsaktiver,Andre driftsomkostninger
+2024-08-25 23:48:57.578120,,19491.15,1550,Øvrige andre driftsindtægter,Andre driftsindtægter
+2024-08-25 23:48:57.578120,,-17348.73,6470,Likvide beholdninger,Likvide beholdninger
+2024-08-25 23:48:57.578120,,-45510.92,5340,"Grunde og bygninger, årets afgange",Grunde og bygninger
+2024-08-26 23:48:57.578120,,-398.52,5940,"Kapitalandele i kapitalinteresser, årets nedskrivninger",Kapitalandele i kapitalinteresser
+2024-08-26 23:48:57.578120, betaling {} - kontorartikler - ref. 52648,-7324.33,2450,Kontorartikler,Administrationsomkostninger
+2024-08-28 23:48:57.578120,,-23176.06,8000,Anden skyldig pension,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-08-28 23:48:57.578120,,-45800.99,5660,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets afgange",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-08-28 23:48:57.578120,,-3237.05,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-08-28 23:48:57.578120,,-27165.84,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-08-29 23:48:57.578120," betaling {} - produktionsanlæg og maskiner, øvrige værdireguleringer - ref. 56756",-35048.09,5450,"Produktionsanlæg og maskiner, øvrige værdireguleringer",Produktionsanlæg og maskiner
+2024-08-29 23:48:57.578120,,-1994.81,2190,Ejendomsskatter,Lokaleomkostninger
+2024-08-29 23:48:57.578120,,-45810.0,2060,Elafgift,Lokaleomkostninger
+2024-08-29 23:48:57.578120,,-45357.63,9999,PASSIVER I ALT,Periodeafgrænsningsposter
+2024-08-30 23:48:57.578120,,-30391.06,5320,"Grunde og bygninger, bogført værdi primo",Grunde og bygninger
+2024-08-30 23:48:57.578120, betaling {} - it-udstyr mv. - ref. 54540,-19508.17,2310,It-udstyr mv.,Administrationsomkostninger
+2024-08-30 23:48:57.578120,,-41620.63,2370,Kontingenter,Administrationsomkostninger
+2024-08-30 23:48:57.578120, rentetillæg mv. fra det offentlige (ej skattepligtig) {} - ref. 90558,-8389.15,3510,Rentetillæg mv. fra det offentlige (ej skattepligtig),Andre finansielle indtægter
+2024-08-31 23:48:57.578120,,-46273.76,7740,Købsmoms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-01 23:48:57.578120,,-5519.18,3490,Renter vedr. tilgodehavende fra salg af varer og tjenesteydelser,Andre finansielle indtægter
+2024-09-01 23:48:57.578120,,40011.34,1540,Gevinst ved salg af finansielle anlægsaktiver,Andre driftsindtægter
+2024-09-01 23:48:57.578120,,-11885.62,7330,Gæld til banker - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-09-02 23:48:57.578120," {} erhvervede immaterielle anlægsaktiver, øvrige værdireguleringer - ref. 14295",-8921.52,5110,"Erhvervede immaterielle anlægsaktiver, øvrige værdireguleringer",Erhvervede immaterielle anlægsaktiver
+2024-09-02 23:48:57.578120,,-30035.31,7010,Hensættelser til udskudt skat,Hensættelse til udskudt skat
+2024-09-02 23:48:57.578120,,-15199.32,8050,Anden gæld (kortfristet gæld),"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-02 23:48:57.578120,,-3628.15,5020,"Goodwill, årets tilgange",Goodwill
+2024-09-02 23:48:57.578120, {} langfristede tilgodehavender hos kapitalinteresser - ref. 70099,-2831.81,5990,Langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-09-03 23:48:57.578120, {} andre personaleomkostninger - ref. 34564,-148.23,2960,Andre personaleomkostninger,Personaleomkostninger
+2024-09-03 23:48:57.578120,,-46454.79,2350,Kantineudgifter,Administrationsomkostninger
+2024-09-04 23:48:57.578120, {} elafgift - ref. 87647,-9377.21,2060,Elafgift,Lokaleomkostninger
+2024-09-04 23:48:57.578120,,-35887.9,7840,Skyldig moms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-05 23:48:57.578120,,-14249.15,1890,Restaurationsbesøg,Salgsomkostninger
+2024-09-06 23:48:57.578120,,-40866.12,5190,"Investeringsejendomme, årets forbedringer",Investeringsejendomme
+2024-09-07 23:48:57.578120," {} indretning af lejede lokaler, tilbageførte af- og nedskrivninger - ref. 63912",-22214.91,5550,"Indretning af lejede lokaler, tilbageførte af- og nedskrivninger",Indretning af lejede lokaler
+2024-09-08 23:48:57.578120,,-26563.93,5750,"Finansielt leasede aktiver, årets af- og nedskrivninger",Finansielt leasede aktiver
+2024-09-09 23:48:57.578120," betaling {} - investeringsejendomme under opførelse, tilbageførte nedskrivninger - ref. 39220",-18605.9,5300,"Investeringsejendomme under opførelse, tilbageførte nedskrivninger",Investeringsejendomme under opførelse
+2024-09-10 23:48:57.578120," betaling {} - produktionsanlæg og maskiner, årets af- og nedskrivninger - ref. 88002",-12938.87,5470,"Produktionsanlæg og maskiner, årets af- og nedskrivninger",Produktionsanlæg og maskiner
+2024-09-10 23:48:57.578120," faktura {} - salg af ydelser udland, ikke-eu - ref. 39597",2380.85,1200,"Salg af ydelser udland, ikke-EU",Nettoomsætning
+2024-09-10 23:48:57.578120,,-1407.86,2070,Vand,Lokaleomkostninger
+2024-09-11 23:48:57.578120,,-25701.21,7170,Gæld til kapitalinteresser - langfristet gæld,Gæld til tilknyttede virksomheder - langfristet gæld
+2024-09-11 23:48:57.578120,,-523.39,6230,Akkumulerede nedskrivninger til tab på tilgodehavender fra tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-09-11 23:48:57.578120,,-37523.95,5270,"Investeringsejendomme under opførelse, årets forbedringer",Investeringsejendomme under opførelse
+2024-09-12 23:48:57.578120,,-17764.46,3200,Indtægter af kapitalandele i tilknyttede virksomheder,Indtægter af kapitalandele i tilknyttede virksomheder
+2024-09-12 23:48:57.578120, elafgift {} - ref. 41971,-21301.63,2060,Elafgift,Lokaleomkostninger
+2024-09-12 23:48:57.578120,,-41445.46,6971,Egenkapital i alt,Foreslået udbytte indregnet under egenkapitalen
+2024-09-12 23:48:57.578120,,-1630.63,3010,Af- og nedskrivninger af goodwill,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-09-12 23:48:57.578120,,-34105.08,2470,Rejseudgifter,Administrationsomkostninger
+2024-09-12 23:48:57.578120,,-25540.53,6040,Deposita,Andre (langfristede) tilgodehavender
+2024-09-12 23:48:57.578120,,-17382.8,7040,Andre hensatte forpligtelser,Andre hensatte forpligtelser
+2024-09-13 23:48:57.578120,,-32532.66,2890,AM Bidragspligtig A-Indkomst,Personaleomkostninger
+2024-09-13 23:48:57.578120, overført resultat {} - ref. 95454,-40110.14,6950,Overført resultat,Overført resultat
+2024-09-15 23:48:57.578120, {} råvarer og hjælpematerialer - ref. 88911,-48136.99,6080,Råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-09-15 23:48:57.578120,,-24745.25,6080,Råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-09-15 23:48:57.578120,,-33900.52,3250,Indtægter af kapitalandele,Indtægter af kapitalandele i kapitalinteresser
+2024-09-15 23:48:57.578120," {} indretning af lejede lokaler, årets tilgange - ref. 99674",-20902.66,5510,"Indretning af lejede lokaler, årets tilgange",Indretning af lejede lokaler
+2024-09-16 23:48:57.578120,,-41655.37,5290,"Investeringsejendomme under opførelse, årets nedskrivninger",Investeringsejendomme under opførelse
+2024-09-16 23:48:57.578120,,-7233.18,5650,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets tilgange",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-09-16 23:48:57.578120,,-23045.46,3820,Andre skatter,Andre skatter
+2024-09-17 23:48:57.578120,,36707.15,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-09-17 23:48:57.578120,,-37934.36,5840,"Kapitalandele i tilknyttede virksomheder, årets nedskrivninger",Kapitalandele i tilknyttede virksomheder
+2024-09-17 23:48:57.578120," betaling {} - goodwill, årets tilgange - ref. 73661",-34036.1,5020,"Goodwill, årets tilgange",Goodwill
+2024-09-18 23:48:57.578120,,-21597.22,2010,Salgsomkostninger,Salgsomkostninger
+2024-09-18 23:48:57.578120, tab ved salg af immaterielle anlægsaktiver {} - ref. 71397,-35277.66,3160,Tab ved salg af immaterielle anlægsaktiver,Andre driftsomkostninger
+2024-09-18 23:48:57.578120, {} akkumulerede nedskrivninger til tab på tilgodehavender fra kapitalinteresser - ref. 18456,-30565.42,6250,Akkumulerede nedskrivninger til tab på tilgodehavender fra kapitalinteresser,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-09-18 23:48:57.578120," betaling {} - investeringsejendomme, årets afgange - ref. 87758",-21642.51,5180,"Investeringsejendomme, årets afgange",Investeringsejendomme
+2024-09-19 23:48:57.578120,,-24459.33,5141,Immaterielle anlægsaktiver,Erhvervede immaterielle anlægsaktiver
+2024-09-19 23:48:57.578120, {} skyldig moms - ref. 55596,-19093.41,7840,Skyldig moms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-20 23:48:57.578120,,-17926.95,6100,Råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-09-20 23:48:57.578120, betaling {} - renter til det offentlige (ej fradragsberettiget skattemæssigt) - ref. 48173,-24001.99,3675,Renter til det offentlige (ej fradragsberettiget skattemæssigt),Øvrige finansielle omkostninger
+2024-09-21 23:48:57.578120,,-2230.48,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-21 23:48:57.578120,,-34885.48,5890,Langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2024-09-21 23:48:57.578120,,-39806.52,7700,"Moms af varekøb udland, EU og ikke-EU","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-22 23:48:57.578120,,-34272.12,5680,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets nedskrivninger",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-09-22 23:48:57.578120,,-37543.65,7780,Elafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-23 23:48:57.578120,,-38631.05,6130,Varer under fremstilling,Varer under fremstilling
+2024-09-23 23:48:57.578120,,16996.66,1350,Værdireguleringer af investeringsejendomme,Nettoomsætning
+2024-09-24 23:48:57.578120," investeringsejendomme, årets tilgange {} - ref. 88850",-319.21,5170,"Investeringsejendomme, årets tilgange",Investeringsejendomme
+2024-09-25 23:48:57.578120,,-32194.96,7230,Deposita - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-09-26 23:48:57.578120,,-49044.31,2300,Regulering af tilgodehavender fra tilknyttede virksomheder og associerede virksomheder,Administrationsomkostninger
+2024-09-26 23:48:57.578120,,-39492.99,5670,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, øvrige værdireguleringer",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-09-26 23:48:57.578120, {} andre driftsomkostninger - ref. 88167,-44140.5,3190,Andre driftsomkostninger,Andre driftsomkostninger
+2024-09-27 23:48:57.578120,,-18702.21,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-09-27 23:48:57.578120,,-11172.66,7310,Gæld til kreditinstitutter - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-09-27 23:48:57.578120,,-49490.49,6080,Råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-09-27 23:48:57.578120,,-1600.93,5610,"Andre anlæg, driftsmateriel og inventar, årets af- og nedskrivninger","Andre anlæg, driftsmateriel og inventar"
+2024-09-27 23:48:57.578120,,-37458.13,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-09-28 23:48:57.578120,,-25736.29,6320,Tilgodehavende moms (kortfristet),Andre tilgodehavender (kortfristede)
+2024-09-28 23:48:57.578120,,-42758.04,5590,"Andre anlæg, driftsmateriel og inventar, årets afgange","Andre anlæg, driftsmateriel og inventar"
+2024-09-28 23:48:57.578120,,-12753.35,6390,"Periodeafgrænsningsposter, der kan opretholdes skattemæssigt",Periodeafgrænsningsposter
+2024-09-29 23:48:57.578120, betaling {} - periodeafgrænsningsposter - ref. 15240,-3748.85,8080,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2024-09-29 23:48:57.578120,,-31665.12,7330,Gæld til banker - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-09-30 23:48:57.578120,,-21364.61,6071,Finansielle anlægsaktiver,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-09-30 23:48:57.578120,,-4289.13,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2024-10-01 23:48:57.578120,,-48452.81,2990,Personaleomkostninger,Personaleomkostninger
+2024-10-01 23:48:57.578120,,-37637.99,2960,Andre personaleomkostninger,Personaleomkostninger
+2024-10-01 23:48:57.578120,,-4084.98,8050,Anden gæld (kortfristet gæld),"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-01 23:48:57.578120,,-23468.76,6411,Tilgodehavender,Periodeafgrænsningsposter
+2024-10-01 23:48:57.578120," erhvervede immaterielle anlægsaktiver, årets af- og nedskrivninger {} - ref. 81129",-10103.03,5120,"Erhvervede immaterielle anlægsaktiver, årets af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-10-02 23:48:57.578120,,-6881.79,3000,Af- og nedskrivninger af erhvervede immaterielle anlægsaktiver,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-10-02 23:48:57.578120,,-48396.32,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-10-02 23:48:57.578120," betaling {} - af- og nedskrivninger af andre anlæg, driftsmateriel og inventar - ref. 20070",-14415.3,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-10-03 23:48:57.578120, indbetaling {} - ref. 93717,48251.26,1150,"Salg af ydelser udland, EU",Nettoomsætning
+2024-10-03 23:48:57.578120, betaling {} - anden skyldig pension - ref. 63260,-27750.68,8000,Anden skyldig pension,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-03 23:48:57.578120,,-34363.34,5450,"Produktionsanlæg og maskiner, øvrige værdireguleringer",Produktionsanlæg og maskiner
+2024-10-03 23:48:57.578120, af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner {} - ref. 69441,-27530.27,3080,Af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-10-03 23:48:57.578120, betaling {} - af- og nedskrivninger af software - ref. 33986,-48718.96,3060,Af- og nedskrivninger af software,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-10-03 23:48:57.578120, {} skattefri rejse- og befordringsgodtgørelse - ref. 36174,-18825.9,2330,Skattefri rejse- og befordringsgodtgørelse,Administrationsomkostninger
+2024-10-04 23:48:57.578120,,-49493.25,3180,Øvrige andre driftsomkostninger,Andre driftsomkostninger
+2024-10-04 23:48:57.578120,,-37393.61,5710,"Finansielt leasede aktiver, bogført værdi primo",Finansielt leasede aktiver
+2024-10-05 23:48:57.578120, co2-afgift {} - ref. 85207,-44388.65,2130,Co2-afgift,Lokaleomkostninger
+2024-10-05 23:48:57.578120, tilgodehavende selskabsskat (kortfristet) {} - ref. 35001,-21771.6,6300,Tilgodehavende selskabsskat (kortfristet),Andre tilgodehavender (kortfristede)
+2024-10-06 23:48:57.578120,,-17752.47,2650,Arbejdsskadeforsikring,Administrationsomkostninger
+2024-10-07 23:48:57.578120,,-43493.01,7510,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-10-07 23:48:57.578120,,-47715.32,7860,Skyldig løn og gager,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-07 23:48:57.578120,,-47819.6,5220,"Investeringsejendomme, tilbageførte af- og nedskrivninger",Investeringsejendomme
+2024-10-07 23:48:57.578120,,-28024.34,5830,"Kapitalandele i tilknyttede virksomheder, øvrige værdireguleringer",Kapitalandele i tilknyttede virksomheder
+2024-10-07 23:48:57.578120, faktura {} - fragtomkostninger - ref. 25246,-34813.56,1830,Fragtomkostninger,Salgsomkostninger
+2024-10-08 23:48:57.578120, betaling {} - skat af årets resultat - ref. 43492,-7295.06,3790,Skat af årets resultat,Skat af årets resultat
+2024-10-08 23:48:57.578120,,-14904.71,1990,Gaver og blomster,Salgsomkostninger
+2024-10-09 23:48:57.578120,,-49287.92,5210,"Investeringsejendomme, årets af- og nedskrivninger",Investeringsejendomme
+2024-10-09 23:48:57.578120, betaling {} - krav på indbetaling af virksomhedskapital og overkurs - ref. 13445,-7284.55,6350,Krav på indbetaling af virksomhedskapital og overkurs,Krav på indbetaling af virksomhedskapital og overkurs
+2024-10-09 23:48:57.578120,,-20970.27,6140,Fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-10-09 23:48:57.578120,,-11741.12,2968,Lønrefusioner,Personaleomkostninger
+2024-10-10 23:48:57.578120,,-13580.79,2950,ATP,Personaleomkostninger
+2024-10-11 23:48:57.578120,,-47117.12,5090,"Erhvervede immaterielle anlægsaktiver, årets tilgange",Erhvervede immaterielle anlægsaktiver
+2024-10-11 23:48:57.578120,,-26316.03,7260,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-12 23:48:57.578120,,-46617.84,6050,Andre (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2024-10-12 23:48:57.578120,,-25756.31,5080,"Erhvervede immaterielle anlægsaktiver, bogført værdi primo",Erhvervede immaterielle anlægsaktiver
+2024-10-13 23:48:57.578120, rejseudgifter {} - ref. 35583,-2632.86,2010,Salgsomkostninger,Salgsomkostninger
+2024-10-13 23:48:57.578120, betaling {} - øvrige afgifter - ref. 29328,-26200.53,2140,Øvrige afgifter,Lokaleomkostninger
+2024-10-13 23:48:57.578120,,-32338.76,6560,Reserve for opskrivninger,Reserve for opskrivninger
+2024-10-14 23:48:57.578120, betaling {} - finansielle anlægsaktiver - ref. 46749,-1839.06,6071,Finansielle anlægsaktiver,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-10-14 23:48:57.578120,,-33813.24,7760,Olie- og flaskegasafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-15 23:48:57.578120, øvrige produktionsomkostninger {} - ref. 82527,-36427.85,2270,Øvrige produktionsomkostninger,Administrationsomkostninger
+2024-10-15 23:48:57.578120,,-21856.96,7310,Gæld til kreditinstitutter - kortfristet gæld,Gæld til kreditinstitutter - kortfristet gæld
+2024-10-15 23:48:57.578120, betaling {} - feriepengeforpligtelse - ref. 71426,-32203.37,2860,Feriepengeforpligtelse,Personaleomkostninger
+2024-10-16 23:48:57.578120, {} skat af årets resultat - ref. 79406,-13659.17,3790,Skat af årets resultat,Skat af årets resultat
+2024-10-16 23:48:57.578120,,-26555.5,6030,Øvrige (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2024-10-16 23:48:57.578120,,-23928.03,5420,"Produktionsanlæg og maskiner, bogført værdi primo",Produktionsanlæg og maskiner
+2024-10-17 23:48:57.578120,,-4097.45,6270,Igangværende arbejder for fremmed regning,Igangværende arbejder for fremmed regning
+2024-10-17 23:48:57.578120,,-9572.42,7720,"Moms af ydelseskøb udland, EU og ikke-EU","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-18 23:48:57.578120," {} materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets nedskrivninger - ref. 58368",-4813.91,5680,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets nedskrivninger",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-10-18 23:48:57.578120, andre eksterne omkostninger {} - ref. 34769,-5235.8,2831,Andre eksterne omkostninger,Administrationsomkostninger
+2024-10-18 23:48:57.578120,,-35013.4,3740,Aktuel skat,Skat af årets resultat
+2024-10-18 23:48:57.578120,,-32090.47,6240,Kortfristede tilgodehavender hos kapitalinteresser,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-10-19 23:48:57.578120,,-13744.31,5990,Langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-10-19 23:48:57.578120,,-42808.03,6810,Reserve for udlån og sikkerhedsstillelse,Andre reserver
+2024-10-19 23:48:57.578120,,-23226.11,2130,Co2-afgift,Lokaleomkostninger
+2024-10-19 23:48:57.578120, {} kortfristede tilgodehavender hos kapitalinteresser - ref. 39423,-41101.6,6240,Kortfristede tilgodehavender hos kapitalinteresser,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-10-20 23:48:57.578120,,-35539.81,3810,Andre skatter,Andre skatter
+2024-10-20 23:48:57.578120,,-23862.45,5050,"Goodwill, årets af- og nedskrivninger",Goodwill
+2024-10-20 23:48:57.578120,,-26913.16,5750,"Finansielt leasede aktiver, årets af- og nedskrivninger",Finansielt leasede aktiver
+2024-10-21 23:48:57.578120, {} lønninger - ref. 83233,-3142.75,2850,Lønninger,Personaleomkostninger
+2024-10-21 23:48:57.578120, indbetaling {} - ref. 48618,-909.76,1740,"Ydelseskøb, udland, ikke-EU","Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-10-21 23:48:57.578120,,-21321.59,2720,Øreafrunding/kassedifferencer,Administrationsomkostninger
+2024-10-21 23:48:57.578120,,-3093.79,2370,Kontingenter,Administrationsomkostninger
+2024-10-22 23:48:57.578120,,-36793.45,2080,Varme,Lokaleomkostninger
+2024-10-22 23:48:57.578120,,-30559.8,2420,Telefon og internet mv. (delvist privat),Administrationsomkostninger
+2024-10-22 23:48:57.578120, {} vederlag til afløsning af pensionstilsagn - ref. 48033,-45913.07,2920,Vederlag til afløsning af pensionstilsagn,Personaleomkostninger
+2024-10-22 23:48:57.578120,,-13280.65,1950,Andre salgsomkostninger,Salgsomkostninger
+2024-10-23 23:48:57.578120,,-4078.58,5950,"Kapitalandele i kapitalinteresser, bogført værdi primo, tilbageførte nedskrivninger",Kapitalandele i kapitalinteresser
+2024-10-23 23:48:57.578120,,-32844.32,9999,PASSIVER I ALT,Periodeafgrænsningsposter
+2024-10-23 23:48:57.578120,,36946.06,1350,Værdireguleringer af investeringsejendomme,Nettoomsætning
+2024-10-24 23:48:57.578120,,45989.42,1100,"Salg af varer udland, ikke-EU",Nettoomsætning
+2024-10-24 23:48:57.578120,,-8971.76,5610,"Andre anlæg, driftsmateriel og inventar, årets af- og nedskrivninger","Andre anlæg, driftsmateriel og inventar"
+2024-10-24 23:48:57.578120,,-28024.25,3540,Andre finansielle indtægter,Andre finansielle indtægter
+2024-10-25 23:48:57.578120,,-15507.82,1970,Aviser og blade,Salgsomkostninger
+2024-10-25 23:48:57.578120,,-17012.04,1660,Ydelseskøb,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-10-25 23:48:57.578120,,-24587.6,3100,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-10-25 23:48:57.578120,,-24768.79,8070,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2024-10-26 23:48:57.578120,,-18617.18,6480,Bankkonto,Likvide beholdninger
+2024-10-26 23:48:57.578120,,-34172.96,6380,Kortfristede tilgodehavender hos virksomhedsdeltagere og ledelse,Kortfristede tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-10-26 23:48:57.578120," betaling {} - driftsomkostninger, personbiler - ref. 84445",-33966.39,2540,"Driftsomkostninger, personbiler",Administrationsomkostninger
+2024-10-27 23:48:57.578120,,27665.19,1150,"Salg af ydelser udland, EU",Nettoomsætning
+2024-10-27 23:48:57.578120,,-17971.92,7040,Andre hensatte forpligtelser,Andre hensatte forpligtelser
+2024-10-27 23:48:57.578120,,-46604.02,6910,Øvrige reserver,Andre reserver
+2024-10-27 23:48:57.578120," betaling {} - materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets afgange - ref. 87301",-36205.95,5660,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, årets afgange",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-10-28 23:48:57.578120,,-28321.72,3210,Indtægter af kapitalandele i tilknyttede virksomheder,Indtægter af kapitalandele i tilknyttede virksomheder
+2024-10-28 23:48:57.578120,,-32091.83,5100,"Erhvervede immaterielle anlægsaktiver, årets afgange",Erhvervede immaterielle anlægsaktiver
+2024-10-28 23:48:57.578120," {} kapitalandele i kapitalinteresser, øvrige værdireguleringer - ref. 65245",-4557.76,5930,"Kapitalandele i kapitalinteresser, øvrige værdireguleringer",Kapitalandele i kapitalinteresser
+2024-10-28 23:48:57.578120,,-13364.23,3510,Rentetillæg mv. fra det offentlige (ej skattepligtig),Andre finansielle indtægter
+2024-10-28 23:48:57.578120,,-17995.31,9950,Kortfristet gæld,Periodeafgrænsningsposter
+2024-10-28 23:48:57.578120,,46852.12,1540,Gevinst ved salg af finansielle anlægsaktiver,Andre driftsindtægter
+2024-10-28 23:48:57.578120,,-10531.19,5920,"Kapitalandele i kapitalinteresser, årets afgange",Kapitalandele i kapitalinteresser
+2024-10-29 23:48:57.578120, betaling {} - advokatmæssig assistance - ref. 68157,-23701.96,2680,Advokatmæssig assistance,Administrationsomkostninger
+2024-10-29 23:48:57.578120,,-27452.84,2210,Lokaleomkostninger,Lokaleomkostninger
+2024-10-29 23:48:57.578120,,-39137.94,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2024-10-29 23:48:57.578120,,-9403.48,2540,"Driftsomkostninger, personbiler",Administrationsomkostninger
+2024-10-29 23:48:57.578120,,-13315.83,3570,Nedskrivning af finansielle aktiver,Nedskrivning af finansielle aktiver
+2024-10-29 23:48:57.578120,,-47558.06,2290,Regulering af nedskrivning på tilgodehavender fra salg og tjenesteydelser,Administrationsomkostninger
+2024-10-29 23:48:57.578120,,-43540.8,7830,Co2-afgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-30 23:48:57.578120,,-19867.54,7590,Gæld til selskabsdeltagere og ledelse - kortfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-10-30 23:48:57.578120, gæld til tilknyttede virksomheder - kortfristet gæld {} - ref. 44657,-36734.64,7530,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-10-30 23:48:57.578120,,-2526.66,2510,Konsulentydelser,Administrationsomkostninger
+2024-10-31 23:48:57.578120, betaling {} - ejendomsskatter - ref. 23930,-8963.61,2190,Ejendomsskatter,Lokaleomkostninger
+2024-10-31 23:48:57.578120,,-3937.03,6910,Øvrige reserver,Andre reserver
+2024-10-31 23:48:57.578120,,28512.53,1390,Nettoomsætning,Nettoomsætning
+2024-11-01 23:48:57.578120,,-20552.58,7830,Co2-afgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-01 23:48:57.578120,,-13142.2,6350,Krav på indbetaling af virksomhedskapital og overkurs,Krav på indbetaling af virksomhedskapital og overkurs
+2024-11-02 23:48:57.578120,,-49389.45,6410,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2024-11-02 23:48:57.578120, betaling {} - valutakursreguleringer - ref. 32222,-5805.5,3610,Valutakursreguleringer,Øvrige finansielle omkostninger
+2024-11-03 23:48:57.578120,,-14920.4,3630,"Kurstab på likvider, bankgæld og prioritetsgæld",Øvrige finansielle omkostninger
+2024-11-03 23:48:57.578120,,-33694.78,7190,Anden gæld - langfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-04 23:48:57.578120,,-10590.57,5980,Nedskrivning på langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-11-04 23:48:57.578120, betaling {} - co2-afgift - ref. 63710,-15808.89,7830,Co2-afgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-04 23:48:57.578120, personalegoder {} - ref. 52454,-30984.52,2965,Personalegoder,Personaleomkostninger
+2024-11-04 23:48:57.578120, olie- og flaskegasafgift {} - ref. 29946,-18036.31,7760,Olie- og flaskegasafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-04 23:48:57.578120," {} nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger - ref. 89355",-12975.65,3130,"Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger","Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger"
+2024-11-04 23:48:57.578120,,-15108.14,5400,"Grunde og bygninger, tilbageførte af- og nedskrivninger",Grunde og bygninger
+2024-11-04 23:48:57.578120,,-12894.14,1970,Aviser og blade,Salgsomkostninger
+2024-11-05 23:48:57.578120,,-37216.51,2940,AER/ AUB,Personaleomkostninger
+2024-11-05 23:48:57.578120,,-38592.13,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2024-11-05 23:48:57.578120, {} reserve for ikke indbetalt virksomhedskapital og overkurs - ref. 84649,-4447.65,6830,Reserve for ikke indbetalt virksomhedskapital og overkurs,Andre reserver
+2024-11-06 23:48:57.578120,,-17453.03,7810,Kulafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-07 23:48:57.578120,,-3099.45,7350,Kreditinstitutter i øvrigt,Gæld til kreditinstitutter - kortfristet gæld
+2024-11-08 23:48:57.578120,,-27692.82,5540,"Indretning af lejede lokaler, årets af- og nedskrivninger",Indretning af lejede lokaler
+2024-11-08 23:48:57.578120, betaling {} - udskudte skatteaktiver - ref. 46209,-24216.35,6290,Udskudte skatteaktiver,Andre tilgodehavender (kortfristede)
+2024-11-08 23:48:57.578120, {} varer under fremstilling - ref. 22103,-13024.62,6130,Varer under fremstilling,Varer under fremstilling
+2024-11-08 23:48:57.578120, betaling {} - skyldig a-skat - ref. 20603,-47153.52,7920,Skyldig A-skat,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-09 23:48:57.578120,,-9394.77,7230,Deposita - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-09 23:48:57.578120,,-12074.76,8040,Øvrig anden gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-09 23:48:57.578120, af- og nedskrivninger af grunde og bygninger {} - ref. 75248,-6686.57,3020,Af- og nedskrivninger af grunde og bygninger,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-11-10 23:48:57.578120,,-7495.46,1890,Restaurationsbesøg,Salgsomkostninger
+2024-11-10 23:48:57.578120,,-2407.5,1930,"Repræsentationsomkostninger, fuld fradragsret skattemæssigt",Salgsomkostninger
+2024-11-11 23:48:57.578120,,-29463.13,6940,Overført resultat,Overført resultat
+2024-11-11 23:48:57.578120,,-47290.87,3230,Indtægter af kapitalandele i kapitalinteresser,Indtægter af kapitalandele i kapitalinteresser
+2024-11-11 23:48:57.578120,,-14396.96,2840,Bruttofortjeneste/Bruttotab,Administrationsomkostninger
+2024-11-11 23:48:57.578120,,-37049.52,3810,Andre skatter,Andre skatter
+2024-11-11 23:48:57.578120,,-11253.3,6520,Indbetalt registreret kapital mv.,Virksomhedskapital
+2024-11-12 23:48:57.578120,,-22528.37,6080,Råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-11-12 23:48:57.578120,,-10085.35,6260,Kortfristede tilgodehavender hos tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2024-11-12 23:48:57.578120,,-37019.18,5240,"Investeringsejendomme under opførelse, bogført værdi primo",Investeringsejendomme under opførelse
+2024-11-12 23:48:57.578120, betaling {} - advokatmæssig assistance - ref. 39805,-41724.51,2680,Advokatmæssig assistance,Administrationsomkostninger
+2024-11-13 23:48:57.578120, gæld til tilknyttede virksomheder - langfristet gæld {} - ref. 90183,-13764.28,7160,Gæld til tilknyttede virksomheder - langfristet gæld,Gæld til tilknyttede virksomheder - langfristet gæld
+2024-11-13 23:48:57.578120,,-27254.8,7410,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2024-11-14 23:48:57.578120,,-37966.07,3790,Skat af årets resultat,Skat af årets resultat
+2024-11-15 23:48:57.578120,,-41530.53,1930,"Repræsentationsomkostninger, fuld fradragsret skattemæssigt",Salgsomkostninger
+2024-11-15 23:48:57.578120, betaling fra {} a/s - ref. 19107,-37226.96,1990,Gaver og blomster,Salgsomkostninger
+2024-11-16 23:48:57.578120, {} betaling - ref. 79660,47585.81,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-11-16 23:48:57.578120,,-39962.68,2380,Faglitteratur,Administrationsomkostninger
+2024-11-17 23:48:57.578120,,13088.15,1050,"Salg af varer udland, EU",Nettoomsætning
+2024-11-17 23:48:57.578120, {} af- og nedskrivninger af indretning af lejede lokaler - ref. 14784,-10195.52,3040,Af- og nedskrivninger af indretning af lejede lokaler,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-11-17 23:48:57.578120," {} finansielt leasede aktiver, øvrige værdireguleringer - ref. 47174",-35664.61,5740,"Finansielt leasede aktiver, øvrige værdireguleringer",Finansielt leasede aktiver
+2024-11-17 23:48:57.578120,,-22296.85,2290,Regulering af nedskrivning på tilgodehavender fra salg og tjenesteydelser,Administrationsomkostninger
+2024-11-17 23:48:57.578120,,-16794.85,5950,"Kapitalandele i kapitalinteresser, bogført værdi primo, tilbageførte nedskrivninger",Kapitalandele i kapitalinteresser
+2024-11-17 23:48:57.578120," {} erhvervede immaterielle anlægsaktiver, tilbageførte af- og nedskrivninger - ref. 88077",-1199.43,5130,"Erhvervede immaterielle anlægsaktiver, tilbageførte af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-11-18 23:48:57.578120, skyldigt am-bidrag {} - ref. 10860,-32791.23,7940,Skyldigt AM-bidrag,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-18 23:48:57.578120, {} leasingforpligtelse - langfristet gæld - ref. 28526,-2287.63,7240,Leasingforpligtelse - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-18 23:48:57.578120, renter på finansiel leasinggæld {} - ref. 84304,-38296.3,3640,Renter på finansiel leasinggæld,Øvrige finansielle omkostninger
+2024-11-18 23:48:57.578120,,-27033.35,1660,Ydelseskøb,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-11-18 23:48:57.578120,,-17623.58,3790,Skat af årets resultat,Skat af årets resultat
+2024-11-18 23:48:57.578120, {} am bidragspligtig a-indkomst - ref. 22587,-10579.15,2890,AM Bidragspligtig A-Indkomst,Personaleomkostninger
+2024-11-19 23:48:57.578120,,-18532.17,7720,"Moms af ydelseskøb udland, EU og ikke-EU","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-19 23:48:57.578120,,-12478.81,5820,"Kapitalandele i tilknyttede virksomheder, årets afgange",Kapitalandele i tilknyttede virksomheder
+2024-11-21 23:48:57.578120,,-40571.79,5420,"Produktionsanlæg og maskiner, bogført værdi primo",Produktionsanlæg og maskiner
+2024-11-21 23:48:57.578120,,-41270.02,3020,Af- og nedskrivninger af grunde og bygninger,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-11-21 23:48:57.578120, {} igangværende arbejder for fremmed regning - ref. 49578,-30118.89,6280,Igangværende arbejder for fremmed regning,Igangværende arbejder for fremmed regning
+2024-11-21 23:48:57.578120,,-37414.94,5540,"Indretning af lejede lokaler, årets af- og nedskrivninger",Indretning af lejede lokaler
+2024-11-21 23:48:57.578120,,-4189.18,7210,Gæld til selskabsdeltagere og ledelse - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-22 23:48:57.578120,,-19615.54,2930,Omkostninger til social sikring,Personaleomkostninger
+2024-11-22 23:48:57.578120,,-46492.94,1660,Ydelseskøb,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-11-22 23:48:57.578120,,-32946.8,2450,Kontorartikler,Administrationsomkostninger
+2024-11-22 23:48:57.578120,,-7256.4,7960,Skyldigt ATP-bidrag,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-23 23:48:57.578120,,-3072.66,2920,Vederlag til afløsning af pensionstilsagn,Personaleomkostninger
+2024-11-23 23:48:57.578120," {} grunde og bygninger, årets forbedringer - ref. 44551",-8590.63,5350,"Grunde og bygninger, årets forbedringer",Grunde og bygninger
+2024-11-24 23:48:57.578120,,-8374.59,9950,Kortfristet gæld,Periodeafgrænsningsposter
+2024-11-24 23:48:57.578120,,-27639.31,2710,Administrationsvederlag/management fee,Administrationsomkostninger
+2024-11-26 23:48:57.578120," betaling {} - investeringsejendomme under opførelse, øvrige værdireguleringer - ref. 56180",-41957.81,5280,"Investeringsejendomme under opførelse, øvrige værdireguleringer",Investeringsejendomme under opførelse
+2024-11-26 23:48:57.578120, {} indbetalt registreret kapital mv. - ref. 77622,-11428.6,6520,Indbetalt registreret kapital mv.,Virksomhedskapital
+2024-11-26 23:48:57.578120,,-28788.26,5640,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, bogført værdi primo",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-11-27 23:48:57.578120,,-30360.38,6160,Fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2024-11-27 23:48:57.578120," betaling {} - erhvervede immaterielle anlægsaktiver, årets afgange - ref. 79895",-18825.89,5100,"Erhvervede immaterielle anlægsaktiver, årets afgange",Erhvervede immaterielle anlægsaktiver
+2024-11-27 23:48:57.578120,,-2651.84,1990,Gaver og blomster,Salgsomkostninger
+2024-11-27 23:48:57.578120,,-11200.76,5630,"Andre anlæg, driftsmateriel og inventar, ultimo","Andre anlæg, driftsmateriel og inventar"
+2024-11-28 23:48:57.578120,,-45276.52,7240,Leasingforpligtelse - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-28 23:48:57.578120,,-14793.33,7740,Købsmoms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-11-29 23:48:57.578120,,-23679.71,2190,Ejendomsskatter,Lokaleomkostninger
+2024-11-29 23:48:57.578120," erhvervede immaterielle anlægsaktiver, tilbageførte af- og nedskrivninger {} - ref. 56408",-41580.13,5130,"Erhvervede immaterielle anlægsaktiver, tilbageførte af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-11-29 23:48:57.578120,,-42278.78,3740,Aktuel skat,Skat af årets resultat
+2024-11-29 23:48:57.578120, betaling {} - kapitalandele i tilknyttede virksomheder - ref. 19505,-37387.88,6430,Kapitalandele i tilknyttede virksomheder,Kapitalandele i tilknyttede virksomheder
+2024-11-29 23:48:57.578120, {} ejendomsskatter - ref. 15985,-26134.5,2190,Ejendomsskatter,Lokaleomkostninger
+2024-11-30 23:48:57.578120,,-26695.06,6461,Værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-12-01 23:48:57.578120, {} tilgodehavender fra salg og tjenesteydelser - ref. 98854,-2140.8,6210,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-12-02 23:48:57.578120,,-49951.16,5910,"Kapitalandele i kapitalinteresser, årets tilgange",Kapitalandele i kapitalinteresser
+2024-12-02 23:48:57.578120,,-18935.95,5980,Nedskrivning på langfristede tilgodehavender hos kapitalinteresser,Langfristede tilgodehavender hos kapitalinteresser
+2024-12-02 23:48:57.578120,,-47161.74,1870,Udstillinger og dekoration,Salgsomkostninger
+2024-12-02 23:48:57.578120,,-9726.62,6090,Nedskrivning på råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2024-12-03 23:48:57.578120, varekøb {} - ref. 29311,-49571.36,1810,Omkostninger til råvarer og hjælpematerialer,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-12-03 23:48:57.578120,,-19969.77,5260,"Investeringsejendomme under opførelse, årets afgange",Investeringsejendomme under opførelse
+2024-12-03 23:48:57.578120," kapitalandele i kapitalinteresser, ultimo {} - ref. 94665",-1588.31,5960,"Kapitalandele i kapitalinteresser, ultimo",Kapitalandele i kapitalinteresser
+2024-12-03 23:48:57.578120,,-47509.51,5340,"Grunde og bygninger, årets afgange",Grunde og bygninger
+2024-12-04 23:48:57.578120,,-43889.81,3080,Af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-12-04 23:48:57.578120,,-6545.07,5040,"Goodwill, øvrige værdireguleringer",Goodwill
+2024-12-05 23:48:57.578120,,-11645.45,2950,ATP,Personaleomkostninger
+2024-12-06 23:48:57.578120,,-7507.45,5030,"Goodwill, årets afgange",Goodwill
+2024-12-06 23:48:57.578120,,-13538.74,2910,Pensioner,Personaleomkostninger
+2024-12-06 23:48:57.578120,,-2632.07,3470,Renter fra banker,Andre finansielle indtægter
+2024-12-07 23:48:57.578120,,-5616.82,7230,Deposita - langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-07 23:48:57.578120,,-23495.23,2690,Øvrige rådgivningshonorarer,Administrationsomkostninger
+2024-12-07 23:48:57.578120,,-12739.16,7820,Vandafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-07 23:48:57.578120,,-41608.63,2160,Reparation og vedligeholdelse,Lokaleomkostninger
+2024-12-08 23:48:57.578120,,-3758.49,3160,Tab ved salg af immaterielle anlægsaktiver,Andre driftsomkostninger
+2024-12-08 23:48:57.578120,,-616.75,2720,Øreafrunding/kassedifferencer,Administrationsomkostninger
+2024-12-09 23:48:57.578120,,-31362.26,7051,Hensatte forpligtelser,Andre hensatte forpligtelser
+2024-12-09 23:48:57.578120, {} hensættelser til pensioner og lignende forpligtelser - ref. 78527,-29977.13,7020,Hensættelser til pensioner og lignende forpligtelser,Hensættelse til udskudt skat
+2024-12-09 23:48:57.578120,,-30670.94,3675,Renter til det offentlige (ej fradragsberettiget skattemæssigt),Øvrige finansielle omkostninger
+2024-12-09 23:48:57.578120,,-45564.9,2240,Småanskaffelser over skattemæssig grænse for småaktiver,Administrationsomkostninger
+2024-12-10 23:48:57.578120,,-33141.87,3510,Rentetillæg mv. fra det offentlige (ej skattepligtig),Andre finansielle indtægter
+2024-12-10 23:48:57.578120,,-24583.12,1850,Annoncering og reklame,Salgsomkostninger
+2024-12-10 23:48:57.578120,,-6448.06,7530,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2024-12-10 23:48:57.578120," grunde og bygninger, ultimo {} - ref. 83824",-7587.54,5410,"Grunde og bygninger, ultimo",Grunde og bygninger
+2024-12-11 23:48:57.578120,,21667.02,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2024-12-11 23:48:57.578120,,32756.83,1300,Regulering igangværende arbejder,Nettoomsætning
+2024-12-11 23:48:57.578120, betaling {} - værdipapirer og kapitalandele - ref. 26587,-26301.28,6461,Værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-12-11 23:48:57.578120," {} indretning af lejede lokaler, årets afgange - ref. 70325",-36706.89,5520,"Indretning af lejede lokaler, årets afgange",Indretning af lejede lokaler
+2024-12-11 23:48:57.578120,,-6837.21,6470,Likvide beholdninger,Likvide beholdninger
+2024-12-11 23:48:57.578120,,-46698.74,2520,Kursusudgifter,Administrationsomkostninger
+2024-12-12 23:48:57.578120,,-3922.32,2100,Olie- og flaskegasafgift,Lokaleomkostninger
+2024-12-12 23:48:57.578120,,-39548.6,5700,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, ultimo",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2024-12-12 23:48:57.578120," moms af ydelseskøb udland, eu og ikke-eu {} - ref. 65880",-17562.22,7720,"Moms af ydelseskøb udland, EU og ikke-EU","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-12 23:48:57.578120,,-34407.78,6071,Finansielle anlægsaktiver,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-12-12 23:48:57.578120,,-39691.23,2830,Administrationsomkostninger,Administrationsomkostninger
+2024-12-13 23:48:57.578120,,-44392.97,2965,Personalegoder,Personaleomkostninger
+2024-12-13 23:48:57.578120, indbetaling {} - ref. 61663,-9339.36,1910,"Repræsentationsomkostninger, skattemæssigt begrænset fradrag",Salgsomkostninger
+2024-12-13 23:48:57.578120,,-28800.83,2260,Forsknings- og udviklingsomkostninger,Administrationsomkostninger
+2024-12-14 23:48:57.578120,,-43793.36,1770,Varelagerregulering på lagre af råvarer og hjælpematerialer,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2024-12-14 23:48:57.578120, betaling {} - værdireguleringer af investeringsejendomme - ref. 42020,-8083.02,3680,Værdireguleringer af investeringsejendomme,Øvrige finansielle omkostninger
+2024-12-15 23:48:57.578120,,-36445.36,3060,Af- og nedskrivninger af software,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-12-15 23:48:57.578120,,-19001.05,6000,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-12-15 23:48:57.578120, betaling {} - lønrefusioner - ref. 46552,-13916.91,2968,Lønrefusioner,Personaleomkostninger
+2024-12-15 23:48:57.578120,,-29976.17,3450,Andre finansielle indtægter fra tilknyttede virksomheder,Andre finansielle indtægter fra tilknyttede virksomheder
+2024-12-15 23:48:57.578120, betaling {} - leje og operationelle leasingydelser (ekskl. husleje) - ref. 26975,-41981.68,2460,Leje og operationelle leasingydelser (ekskl. husleje),Administrationsomkostninger
+2024-12-16 23:48:57.578120, betaling {} - nedskrivning af finansielle aktiver - ref. 48977,-34231.0,3560,Nedskrivning af finansielle aktiver,Nedskrivning af finansielle aktiver
+2024-12-16 23:48:57.578120,,-40512.54,2560,"Driftsomkostninger, varebiler",Administrationsomkostninger
+2024-12-17 23:48:57.578120, {} elafgift - ref. 54064,-27821.71,7780,Elafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-18 23:48:57.578120,,-21524.72,6910,Øvrige reserver,Andre reserver
+2024-12-18 23:48:57.578120,,-18528.91,5140,"Erhvervede immaterielle anlægsaktiver, ultimo",Erhvervede immaterielle anlægsaktiver
+2024-12-18 23:48:57.578120,,-3228.59,3670,Renter til banker og realkreditinstitutter,Øvrige finansielle omkostninger
+2024-12-19 23:48:57.578120,,-30670.86,6200,Akkumulerede nedskrivninger til tab på tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2024-12-20 23:48:57.578120, betaling {} - personalegoder - ref. 38119,-47390.42,2965,Personalegoder,Personaleomkostninger
+2024-12-20 23:48:57.578120,,-18053.51,5120,"Erhvervede immaterielle anlægsaktiver, årets af- og nedskrivninger",Erhvervede immaterielle anlægsaktiver
+2024-12-20 23:48:57.578120,,-48006.89,2310,It-udstyr mv.,Administrationsomkostninger
+2024-12-20 23:48:57.578120,,-41530.97,5550,"Indretning af lejede lokaler, tilbageførte af- og nedskrivninger",Indretning af lejede lokaler
+2024-12-21 23:48:57.578120,,-2906.12,5240,"Investeringsejendomme under opførelse, bogført værdi primo",Investeringsejendomme under opførelse
+2024-12-21 23:48:57.578120,,-34642.64,2700,Ej skattemæssigt fradragsberettigede rådgivningshonorarer,Administrationsomkostninger
+2024-12-21 23:48:57.578120,,-32320.7,2520,Kursusudgifter,Administrationsomkostninger
+2024-12-21 23:48:57.578120,,-21539.61,7740,Købsmoms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-22 23:48:57.578120,,-12664.84,1970,Aviser og blade,Salgsomkostninger
+2024-12-22 23:48:57.578120,,-7012.72,7700,"Moms af varekøb udland, EU og ikke-EU","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-22 23:48:57.578120,,-14068.66,7190,Anden gæld - langfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-23 23:48:57.578120,,-43574.66,6570,Reserve for opskrivninger,Reserve for opskrivninger
+2024-12-23 23:48:57.578120,,-10287.68,5310,"Investeringsejendomme under opførelse, ultimo",Investeringsejendomme under opførelse
+2024-12-23 23:48:57.578120,,-210.22,5920,"Kapitalandele i kapitalinteresser, årets afgange",Kapitalandele i kapitalinteresser
+2024-12-23 23:48:57.578120,,-1343.58,6470,Likvide beholdninger,Likvide beholdninger
+2024-12-24 23:48:57.578120,,-43765.71,5500,"Indretning af lejede lokaler, bogført værdi primo",Indretning af lejede lokaler
+2024-12-26 23:48:57.578120,,-35783.63,5310,"Investeringsejendomme under opførelse, ultimo",Investeringsejendomme under opførelse
+2024-12-26 23:48:57.578120,,-36729.59,3230,Indtægter af kapitalandele i kapitalinteresser,Indtægter af kapitalandele i kapitalinteresser
+2024-12-26 23:48:57.578120,,-43663.44,7630,Leasingforpligtelse - kortfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-27 23:48:57.578120, betaling {} - co2-afgift - ref. 86642,-15267.27,2130,Co2-afgift,Lokaleomkostninger
+2024-12-27 23:48:57.578120,,-45489.09,2980,Lønsumsafgift,Personaleomkostninger
+2024-12-29 23:48:57.578120," betaling {} - anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring - ref. 96110",-634.6,7260,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-30 23:48:57.578120,,-20125.91,6000,Andre værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-12-30 23:48:57.578120,,-14704.15,3010,Af- og nedskrivninger af goodwill,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2024-12-30 23:48:57.578120,,-5760.63,6461,Værdipapirer og kapitalandele,Andre værdipapirer og kapitalandele
+2024-12-30 23:48:57.578120,,-42901.45,7590,Gæld til selskabsdeltagere og ledelse - kortfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2024-12-31 23:48:57.578120, {} tilgodehavender hos virksomhedsdeltagere og ledelse - ref. 26601,-35249.12,6060,Tilgodehavender hos virksomhedsdeltagere og ledelse,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2024-12-31 23:48:57.578120,,-24775.92,2620,Parkeringsudgifter,Administrationsomkostninger
+2025-01-01 23:48:57.578120,,-19341.62,2950,ATP,Personaleomkostninger
+2025-01-01 23:48:57.578120,,-35575.86,3540,Andre finansielle indtægter,Andre finansielle indtægter
+2025-01-02 23:48:57.578120," betaling {} - kapitalandele i kapitalinteresser, ultimo - ref. 61764",-24875.46,5960,"Kapitalandele i kapitalinteresser, ultimo",Kapitalandele i kapitalinteresser
+2025-01-02 23:48:57.578120, betaling {} - nedskrivning af finansielle aktiver - ref. 76357,-324.37,3570,Nedskrivning af finansielle aktiver,Nedskrivning af finansielle aktiver
+2025-01-02 23:48:57.578120," {} investeringsejendomme, øvrige værdireguleringer - ref. 50723",-28283.0,5200,"Investeringsejendomme, øvrige værdireguleringer",Investeringsejendomme
+2025-01-04 23:48:57.578120,,-24513.65,5920,"Kapitalandele i kapitalinteresser, årets afgange",Kapitalandele i kapitalinteresser
+2025-01-06 23:48:57.578120,,-6714.95,6560,Reserve for opskrivninger,Reserve for opskrivninger
+2025-01-06 23:48:57.578120,,-3838.12,2200,Andre lokaleomkostninger,Lokaleomkostninger
+2025-01-06 23:48:57.578120,,1999.2,1350,Værdireguleringer af investeringsejendomme,Nettoomsætning
+2025-01-07 23:48:57.578120, {} gæld til kreditinstitutter - ref. 92771,-35992.78,7130,Gæld til kreditinstitutter,Gæld til kreditinstitutter - langfristet gæld
+2025-01-07 23:48:57.578120,,-35960.17,5720,"Finansielt leasede aktiver, årets tilgange",Finansielt leasede aktiver
+2025-01-07 23:48:57.578120,,-38182.06,5510,"Indretning af lejede lokaler, årets tilgange",Indretning af lejede lokaler
+2025-01-07 23:48:57.578120,,28723.53,1550,Øvrige andre driftsindtægter,Andre driftsindtægter
+2025-01-07 23:48:57.578120, {} reserve for nettoopskrivning efter den indre værdis metode - ref. 32071,-9611.8,6580,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2025-01-08 23:48:57.578120,,-44213.14,7530,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2025-01-08 23:48:57.578120,,-34169.8,3020,Af- og nedskrivninger af grunde og bygninger,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2025-01-08 23:48:57.578120,,-41643.26,1970,Aviser og blade,Salgsomkostninger
+2025-01-08 23:48:57.578120," kapitalandele i tilknyttede virksomheder, årets afgange {} - ref. 75925",-37878.21,5820,"Kapitalandele i tilknyttede virksomheder, årets afgange",Kapitalandele i tilknyttede virksomheder
+2025-01-09 23:48:57.578120,,-27304.3,5220,"Investeringsejendomme, tilbageførte af- og nedskrivninger",Investeringsejendomme
+2025-01-09 23:48:57.578120, {} aer/ aub - ref. 77497,-23323.8,2940,AER/ AUB,Personaleomkostninger
+2025-01-10 23:48:57.578120, lønudbetaling {} - ref. 36461,-16043.54,2990,Personaleomkostninger,Personaleomkostninger
+2025-01-10 23:48:57.578120, reserve for opskrivninger {} - ref. 11935,-7922.86,6560,Reserve for opskrivninger,Reserve for opskrivninger
+2025-01-10 23:48:57.578120,,-26837.5,5771,Materielle anlægsaktiver,Finansielt leasede aktiver
+2025-01-10 23:48:57.578120,,-18029.61,9950,Kortfristet gæld,Periodeafgrænsningsposter
+2025-01-11 23:48:57.578120,,-30312.49,7830,Co2-afgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-01-11 23:48:57.578120, betaling fra {} a/s - ref. 42936,23611.11,1530,Gevinst ved salg af materielle anlægsaktiver,Andre driftsindtægter
+2025-01-11 23:48:57.578120," investeringsejendomme, øvrige værdireguleringer {} - ref. 11611",-4520.79,5200,"Investeringsejendomme, øvrige værdireguleringer",Investeringsejendomme
+2025-01-12 23:48:57.578120,,-4861.86,5890,Langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2025-01-13 23:48:57.578120,,39947.54,1050,"Salg af varer udland, EU",Nettoomsætning
+2025-01-13 23:48:57.578120,,-11403.23,7980,Skyldigt AMP-bidrag,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-01-14 23:48:57.578120,,-3014.29,5910,"Kapitalandele i kapitalinteresser, årets tilgange",Kapitalandele i kapitalinteresser
+2025-01-14 23:48:57.578120, {} modtagne forudbetalinger fra kunder - ref. 68600,-23789.74,7410,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2025-01-14 23:48:57.578120,,-25877.64,5210,"Investeringsejendomme, årets af- og nedskrivninger",Investeringsejendomme
+2025-01-14 23:48:57.578120,,-15088.14,5430,"Produktionsanlæg og maskiner, årets tilgange",Produktionsanlæg og maskiner
+2025-01-15 23:48:57.578120, {} gæld til selskabsdeltagere og ledelse - kortfristet gæld - ref. 82946,-3032.35,7590,Gæld til selskabsdeltagere og ledelse - kortfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-01-15 23:48:57.578120, husleje {} - ref. 38892,-31463.32,2210,Lokaleomkostninger,Lokaleomkostninger
+2025-01-15 23:48:57.578120,,-49590.81,5480,"Produktionsanlæg og maskiner, tilbageførte af- og nedskrivninger",Produktionsanlæg og maskiner
+2025-01-15 23:48:57.578120,,40463.69,1010,Salg af varer og ydelser,Nettoomsætning
+2025-01-15 23:48:57.578120,,-6405.46,5580,"Andre anlæg, driftsmateriel og inventar, årets tilgange","Andre anlæg, driftsmateriel og inventar"
+2025-01-16 23:48:57.578120,,-23984.32,7190,Anden gæld - langfristet,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-01-16 23:48:57.578120,,-46768.25,6590,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2025-01-16 23:48:57.578120,,-34602.94,6971,Egenkapital i alt,Foreslået udbytte indregnet under egenkapitalen
+2025-01-17 23:48:57.578120, betaling {} - andre eksterne omkostninger - ref. 16845,-20192.58,2831,Andre eksterne omkostninger,Administrationsomkostninger
+2025-01-17 23:48:57.578120,,-31647.49,7530,Gæld til tilknyttede virksomheder - kortfristet gæld,Gæld til tilknyttede virksomheder - kortfristet gæld
+2025-01-18 23:48:57.578120," {} investeringsejendomme under opførelse, ultimo - ref. 79505",-3036.44,5310,"Investeringsejendomme under opførelse, ultimo",Investeringsejendomme under opførelse
+2025-01-18 23:48:57.578120,,-12246.31,6910,Øvrige reserver,Andre reserver
+2025-01-19 23:48:57.578120,,-24297.27,6940,Overført resultat,Overført resultat
+2025-01-20 23:48:57.578120,,-13240.83,6050,Andre (langfristede) tilgodehavender,Andre (langfristede) tilgodehavender
+2025-01-21 23:48:57.578120,,-24464.91,2940,AER/ AUB,Personaleomkostninger
+2025-01-21 23:48:57.578120,,-16296.43,2120,Naturgas- og bygasafgift,Lokaleomkostninger
+2025-01-21 23:48:57.578120,,-10127.62,6060,Tilgodehavender hos virksomhedsdeltagere og ledelse,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2025-01-21 23:48:57.578120,,-27469.13,2960,Andre personaleomkostninger,Personaleomkostninger
+2025-01-22 23:48:57.578120,,-38021.42,7020,Hensættelser til pensioner og lignende forpligtelser,Hensættelse til udskudt skat
+2025-01-22 23:48:57.578120, betaling {} - indtægter af kapitalandele - ref. 91560,-34046.84,3250,Indtægter af kapitalandele,Indtægter af kapitalandele i kapitalinteresser
+2025-01-23 23:48:57.578120,,-3426.88,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2025-01-24 23:48:57.578120,,-1550.86,6190,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2025-01-24 23:48:57.578120,,-35873.62,3180,Øvrige andre driftsomkostninger,Andre driftsomkostninger
+2025-01-24 23:48:57.578120,,-47834.85,5490,"Produktionsanlæg og maskiner, ultimo",Produktionsanlæg og maskiner
+2025-01-24 23:48:57.578120,,-42805.27,5690,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, tilbageførte nedskrivninger",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2025-01-25 23:48:57.578120,,-24523.64,7900,Skyldige feriepenge,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-01-25 23:48:57.578120,,-18610.08,7120,Gæld til banker - langfristet gæld,Gæld til kreditinstitutter - langfristet gæld
+2025-01-26 23:48:57.578120," investeringsejendomme, årets afgange {} - ref. 50581",-49710.45,5180,"Investeringsejendomme, årets afgange",Investeringsejendomme
+2025-01-26 23:48:57.578120," {} indretning af lejede lokaler, årets afgange - ref. 81475",-2338.5,5520,"Indretning af lejede lokaler, årets afgange",Indretning af lejede lokaler
+2025-01-26 23:48:57.578120,,-36724.68,6170,Forudbetalinger for varer,Forudbetalinger for varer
+2025-01-26 23:48:57.578120, betaling {} - parkeringsudgifter - ref. 15805,-7154.76,2620,Parkeringsudgifter,Administrationsomkostninger
+2025-01-27 23:48:57.578120," betaling {} - andre anlæg, driftsmateriel og inventar, årets afgange - ref. 30383",-48959.83,5590,"Andre anlæg, driftsmateriel og inventar, årets afgange","Andre anlæg, driftsmateriel og inventar"
+2025-01-27 23:48:57.578120," betaling {} - produktionsanlæg og maskiner, årets af- og nedskrivninger - ref. 82765",-818.12,5470,"Produktionsanlæg og maskiner, årets af- og nedskrivninger",Produktionsanlæg og maskiner
+2025-01-27 23:48:57.578120," {} erhvervede immaterielle anlægsaktiver, årets afgange - ref. 20444",-34468.94,5100,"Erhvervede immaterielle anlægsaktiver, årets afgange",Erhvervede immaterielle anlægsaktiver
+2025-01-28 23:48:57.578120, tilgodehavender hos virksomhedsdeltagere og ledelse {} - ref. 46097,-46926.22,6060,Tilgodehavender hos virksomhedsdeltagere og ledelse,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2025-01-28 23:48:57.578120, {} naturgas- og bygasafgift - ref. 66056,-45499.18,7800,Naturgas- og bygasafgift,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-01-28 23:48:57.578120," betaling {} - indretning af lejede lokaler, øvrige værdireguleringer - ref. 68851",-40784.91,5530,"Indretning af lejede lokaler, øvrige værdireguleringer",Indretning af lejede lokaler
+2025-01-29 23:48:57.578120,,17913.77,1430,Nedskrivning på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2025-01-29 23:48:57.578120,,-26241.5,7030,Hensættelse til udskudt skat,Hensættelse til udskudt skat
+2025-01-30 23:48:57.578120,,-43600.69,1810,Omkostninger til råvarer og hjælpematerialer,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2025-01-30 23:48:57.578120," materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, øvrige værdireguleringer {} - ref. 87434",-31117.96,5670,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, øvrige værdireguleringer",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2025-01-30 23:48:57.578120,,-38905.42,5190,"Investeringsejendomme, årets forbedringer",Investeringsejendomme
+2025-01-30 23:48:57.578120,,2166.88,1050,"Salg af varer udland, EU",Nettoomsætning
+2025-01-31 23:48:57.578120," finansielt leasede aktiver, årets afgange {} - ref. 20895",-45985.48,5730,"Finansielt leasede aktiver, årets afgange",Finansielt leasede aktiver
+2025-01-31 23:48:57.578120, betaling {} - periodeafgrænsningsposter - ref. 85349,-41952.13,6410,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2025-02-01 23:48:57.578120," {} indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver - ref. 37735",-31049.9,3410,"Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2025-02-01 23:48:57.578120,,-33904.14,5270,"Investeringsejendomme under opførelse, årets forbedringer",Investeringsejendomme under opførelse
+2025-02-01 23:48:57.578120,,-33292.79,1990,Gaver og blomster,Salgsomkostninger
+2025-02-01 23:48:57.578120,,-10984.6,2170,"Reparation og vedligeholdelse, ejendom skattemæssigt afskrivningsberettiget, bygning 1",Lokaleomkostninger
+2025-02-02 23:48:57.578120, betaling {} - lønsumsafgift - ref. 51440,-32643.85,2980,Lønsumsafgift,Personaleomkostninger
+2025-02-02 23:48:57.578120,,-46018.87,1810,Omkostninger til råvarer og hjælpematerialer,"Omkostninger til råvarer, hjælpematerialer og ydelser"
+2025-02-02 23:48:57.578120,,-7965.09,3170,Tab ved salg af materielle anlægsaktiver,Andre driftsomkostninger
+2025-02-03 23:48:57.578120, {} akkumulerede nedskrivninger til tab på tilgodehavender fra tilknyttede virksomheder - ref. 81089,-10925.72,6230,Akkumulerede nedskrivninger til tab på tilgodehavender fra tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2025-02-03 23:48:57.578120,,-3515.74,3510,Rentetillæg mv. fra det offentlige (ej skattepligtig),Andre finansielle indtægter
+2025-02-03 23:48:57.578120,,-11983.09,5750,"Finansielt leasede aktiver, årets af- og nedskrivninger",Finansielt leasede aktiver
+2025-02-04 23:48:57.578120,,-7261.85,5410,"Grunde og bygninger, ultimo",Grunde og bygninger
+2025-02-04 23:48:57.578120, hensatte forpligtelser {} - ref. 90125,-4259.0,7051,Hensatte forpligtelser,Andre hensatte forpligtelser
+2025-02-05 23:48:57.578120," {} grunde og bygninger, årets afgange - ref. 81310",-3013.75,5340,"Grunde og bygninger, årets afgange",Grunde og bygninger
+2025-02-05 23:48:57.578120,,-9627.97,5430,"Produktionsanlæg og maskiner, årets tilgange",Produktionsanlæg og maskiner
+2025-02-05 23:48:57.578120,,-42380.01,6360,Krav på indbetaling af virksomhedskapital og overkurs,Krav på indbetaling af virksomhedskapital og overkurs
+2025-02-05 23:48:57.578120,,-41801.54,6070,Tilgodehavender hos virksomhedsdeltagere og ledelse,Tilgodehavender hos virksomhedsdeltagere og ledelse
+2025-02-05 23:48:57.578120,,-40449.25,6830,Reserve for ikke indbetalt virksomhedskapital og overkurs,Andre reserver
+2025-02-05 23:48:57.578120,,-1643.28,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2025-02-06 23:48:57.578120, betaling {} - overkurs ved emission - ref. 68684,-27938.37,6550,Overkurs ved emission,Overkurs ved emission
+2025-02-06 23:48:57.578120,,-22851.34,2870,Jubilæumsgratiale og fratrædelsesgodtgørelse,Personaleomkostninger
+2025-02-07 23:48:57.578120,,-5080.5,5620,"Andre anlæg, driftsmateriel og inventar, tilbageførte af- og nedskrivninger","Andre anlæg, driftsmateriel og inventar"
+2025-02-07 23:48:57.578120,,-2307.98,6290,Udskudte skatteaktiver,Andre tilgodehavender (kortfristede)
+2025-02-08 23:48:57.578120,,-25869.26,2530,"Leasingomkostninger, personbiler",Administrationsomkostninger
+2025-02-08 23:48:57.578120," betaling {} - finansielt leasede aktiver, ultimo - ref. 16646",-48999.26,5770,"Finansielt leasede aktiver, ultimo",Finansielt leasede aktiver
+2025-02-08 23:48:57.578120, ændring af udskudt skat {} - ref. 57946,-9875.25,3760,Ændring af udskudt skat,Skat af årets resultat
+2025-02-08 23:48:57.578120,,-30504.32,5240,"Investeringsejendomme under opførelse, bogført værdi primo",Investeringsejendomme under opførelse
+2025-02-09 23:48:57.578120, salgsfremmende {} - ref. 48815,-31052.79,2010,Salgsomkostninger,Salgsomkostninger
+2025-02-09 23:48:57.578120," produktionsanlæg og maskiner, årets af- og nedskrivninger {} - ref. 47945",-26631.79,5470,"Produktionsanlæg og maskiner, årets af- og nedskrivninger",Produktionsanlæg og maskiner
+2025-02-10 23:48:57.578120,,-35447.3,7720,"Moms af ydelseskøb udland, EU og ikke-EU","Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-02-11 23:48:57.578120,,-40292.02,3410,"Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver","Indtægter af andre kapitalandele, værdipapirer og tilgodehavender, der er anlægsaktiver"
+2025-02-12 23:48:57.578120, {} modtagne forudbetalinger fra kunder - ref. 22026,-3636.2,7410,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2025-02-13 23:48:57.578120, betaling {} - reserve for nettoopskrivning efter den indre værdis metode - ref. 18466,-11087.17,6590,Reserve for nettoopskrivning efter den indre værdis metode,Reserve for nettoopskrivning efter den indre værdis metode
+2025-02-13 23:48:57.578120,,-47139.41,2930,Omkostninger til social sikring,Personaleomkostninger
+2025-02-14 23:48:57.578120,,-21369.63,6300,Tilgodehavende selskabsskat (kortfristet),Andre tilgodehavender (kortfristede)
+2025-02-14 23:48:57.578120," nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger {} - ref. 62598",-7119.06,3140,"Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger","Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger"
+2025-02-14 23:48:57.578120,,-37252.3,5640,"Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver, bogført værdi primo",Materielle anlægsaktiver under udførelse og forudbetalinger for materielle anlægsaktiver
+2025-02-15 23:48:57.578120,,-31970.47,5030,"Goodwill, årets afgange",Goodwill
+2025-02-16 23:48:57.578120,,-25998.72,1950,Andre salgsomkostninger,Salgsomkostninger
+2025-02-17 23:48:57.578120,,-16677.51,2350,Kantineudgifter,Administrationsomkostninger
+2025-02-18 23:48:57.578120,,-11877.12,6960,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2025-02-18 23:48:57.578120," betaling {} - af- og nedskrivninger af finansielt leasede andre anlæg, driftsmateriel og inventar - ref. 29057",-28242.65,3090,"Af- og nedskrivninger af finansielt leasede andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2025-02-18 23:48:57.578120,,-36107.77,2950,ATP,Personaleomkostninger
+2025-02-19 23:48:57.578120," periodeafgrænsningsposter, der ikke kan opretholdes skattemæssigt {} - ref. 56494",-19865.87,6400,"Periodeafgrænsningsposter, der ikke kan opretholdes skattemæssigt",Periodeafgrænsningsposter
+2025-02-20 23:48:57.578120,,47490.45,1200,"Salg af ydelser udland, ikke-EU",Nettoomsætning
+2025-02-20 23:48:57.578120, betaling {} - salgsmoms - ref. 27226,-20739.91,7680,Salgsmoms,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-02-20 23:48:57.578120,,-4622.23,7610,Deposita - kortfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-02-20 23:48:57.578120, betaling {} - aktiver i alt - ref. 81429,-20524.44,6499,AKTIVER I ALT,Likvide beholdninger
+2025-02-21 23:48:57.578120," goodwill, bogført værdi primo {} - ref. 29955",-34445.1,5010,"Goodwill, bogført værdi primo",Goodwill
+2025-02-21 23:48:57.578120,,-20830.2,5020,"Goodwill, årets tilgange",Goodwill
+2025-02-21 23:48:57.578120,,-36976.23,5890,Langfristede tilgodehavender hos tilknyttede virksomheder,Langfristede tilgodehavender hos tilknyttede virksomheder
+2025-02-21 23:48:57.578120, betaling {} - foreslået udbytte indregnet under egenkapitalen - ref. 66920,-23120.66,6960,Foreslået udbytte indregnet under egenkapitalen,Foreslået udbytte indregnet under egenkapitalen
+2025-02-22 23:48:57.578120, ejendomsskatter {} - ref. 88104,-9512.31,2190,Ejendomsskatter,Lokaleomkostninger
+2025-02-22 23:48:57.578120," betaling {} - af- og nedskrivninger af finansielt leasede andre anlæg, driftsmateriel og inventar - ref. 40607",-28203.19,3090,"Af- og nedskrivninger af finansielt leasede andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2025-02-23 23:48:57.578120, salg til {} - ref. 46411,36967.04,1530,Gevinst ved salg af materielle anlægsaktiver,Andre driftsindtægter
+2025-02-23 23:48:57.578120," andre anlæg, driftsmateriel og inventar, ultimo {} - ref. 57944",-40698.88,5630,"Andre anlæg, driftsmateriel og inventar, ultimo","Andre anlæg, driftsmateriel og inventar"
+2025-02-24 23:48:57.578120," kapitalandele i tilknyttede virksomheder, bogført værdi primo {} - ref. 76077",-17397.57,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2025-02-25 23:48:57.578120,,-4840.47,5740,"Finansielt leasede aktiver, øvrige værdireguleringer",Finansielt leasede aktiver
+2025-02-25 23:48:57.578120,,-6892.58,5600,"Andre anlæg, driftsmateriel og inventar, øvrige værdireguleringer","Andre anlæg, driftsmateriel og inventar"
+2025-02-25 23:48:57.578120," kapitalandele i tilknyttede virksomheder, årets tilgange {} - ref. 11034",-39546.44,5810,"Kapitalandele i tilknyttede virksomheder, årets tilgange",Kapitalandele i tilknyttede virksomheder
+2025-02-25 23:48:57.578120,,-31161.82,6090,Nedskrivning på råvarer og hjælpematerialer,Råvarer og hjælpematerialer
+2025-02-26 23:48:57.578120,,-20375.02,2350,Kantineudgifter,Administrationsomkostninger
+2025-02-26 23:48:57.578120,,-16146.14,6260,Kortfristede tilgodehavender hos tilknyttede virksomheder,Kortfristede tilgodehavender hos tilknyttede virksomheder
+2025-02-26 23:48:57.578120,,-29015.37,6040,Deposita,Andre (langfristede) tilgodehavender
+2025-02-27 23:48:57.578120,,-46888.62,2060,Elafgift,Lokaleomkostninger
+2025-02-27 23:48:57.578120, betaling {} - jubilæumsgratiale og fratrædelsesgodtgørelse - ref. 75836,-12208.89,2870,Jubilæumsgratiale og fratrædelsesgodtgørelse,Personaleomkostninger
+2025-02-27 23:48:57.578120,,-35007.03,6550,Overkurs ved emission,Overkurs ved emission
+2025-02-27 23:48:57.578120,,-6355.23,7051,Hensatte forpligtelser,Andre hensatte forpligtelser
+2025-02-28 23:48:57.578120,,-11570.5,6190,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2025-02-28 23:48:57.578120,,-29352.49,5800,"Kapitalandele i tilknyttede virksomheder, bogført værdi primo",Kapitalandele i tilknyttede virksomheder
+2025-03-01 23:48:57.578120,,-37661.73,5340,"Grunde og bygninger, årets afgange",Grunde og bygninger
+2025-03-01 23:48:57.578120, {} værdireguleringer af investeringsejendomme - ref. 89893,-48268.44,3680,Værdireguleringer af investeringsejendomme,Øvrige finansielle omkostninger
+2025-03-01 23:48:57.578120,,-19815.65,3130,"Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger","Nedskrivninger af omsætningsaktiver, som overstiger normale nedskrivninger"
+2025-03-01 23:48:57.578120, {} vand - ref. 89396,-33126.06,2070,Vand,Lokaleomkostninger
+2025-03-01 23:48:57.578120,,-5821.75,5560,"Indretning af lejede lokaler, ultimo",Indretning af lejede lokaler
+2025-03-01 23:48:57.578120,,-39328.89,6190,Tilgodehavender fra salg og tjenesteydelser,Tilgodehavender fra salg og tjenesteydelser
+2025-03-02 23:48:57.578120,,-37465.93,2620,Parkeringsudgifter,Administrationsomkostninger
+2025-03-02 23:48:57.578120,,-44797.01,6560,Reserve for opskrivninger,Reserve for opskrivninger
+2025-03-02 23:48:57.578120, {} af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner - ref. 57130,-31806.37,3080,Af- og nedskrivninger af finansielt leasede produktionsanlæg og maskiner,Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2025-03-02 23:48:57.578120," betaling {} - af- og nedskrivninger af andre anlæg, driftsmateriel og inventar - ref. 88884",-10210.58,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2025-03-03 23:48:57.578120, betaling {} - periodeafgrænsningsposter - ref. 96372,-7826.0,8080,Periodeafgrænsningsposter,Periodeafgrænsningsposter
+2025-03-03 23:48:57.578120,,-12281.83,6340,Andre tilgodehavender (kortfristede),Andre tilgodehavender (kortfristede)
+2025-03-04 23:48:57.578120,,-3571.82,2110,Kulafgift,Lokaleomkostninger
+2025-03-04 23:48:57.578120, betaling {} - langfristet gæld - ref. 49341,-24442.59,7261,Langfristet gæld,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-03-04 23:48:57.578120, skyldig bonus og tantieme {} - ref. 52489,-23002.52,7880,Skyldig bonus og tantieme,"Anden gæld, herunder skyldige skatter og skyldige bidrag til social sikring"
+2025-03-04 23:48:57.578120, {} betaling - ref. 97201,44051.98,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2025-03-04 23:48:57.578120,,-16488.78,6150,Nedskrivning på fremstillede varer og handelsvarer,Fremstillede varer og handelsvarer
+2025-03-05 23:48:57.578120,,22307.91,1460,Øvrige ændringer på lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
+2025-03-05 23:48:57.578120,,-46777.14,2680,Advokatmæssig assistance,Administrationsomkostninger
+2025-03-05 23:48:57.578120,,-32275.05,7410,Modtagne forudbetalinger fra kunder,Modtagne forudbetalinger fra kunder
+2025-03-05 23:48:57.578120, indbetaling {} - ref. 52282,26124.05,1200,"Salg af ydelser udland, ikke-EU",Nettoomsætning
+2025-03-06 23:48:57.578120,,-30970.36,3050,"Af- og nedskrivninger af andre anlæg, driftsmateriel og inventar",Af- og nedskrivninger af materielle og immaterielle anlægsaktiver
+2025-03-06 23:48:57.578120,,6308.1,1490,Ændring i lagre af færdigvarer og varer under fremstilling,Ændring i lagre af færdigvarer og varer under fremstilling
